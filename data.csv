@@ -1,0 +1,706 @@
+fight_id,event_name,date,weight_class,title_fight,referee,winner_id,result_status,method,round
+35c8223cc967fe0a,UFC 309: Jones vs. Miocic,2024-11-16,Lightweight,0,Keith Peterson,d1941565abf50b16,win,Submission,1
+0eccebee160137b1,UFC 314: Volkanovski vs. Lopes,2025-04-12,Women's Strawweight,0,Mike Beltran,7dda2cf308f24a02,win,Decision - Unanimous,3
+7d3da3c4153717de,UFC 321: Aspinall vs. Gane,2025-10-25,Women's Strawweight,1,Marc Goddard,7447e9f28508106a,win,Decision - Unanimous,5
+5f44d6d9e6bbecff,UFC 288: Sterling vs. Cejudo,2023-05-06,Women's Strawweight,0,Vitor Ribeiro,7dda2cf308f24a02,win,Decision - Unanimous,3
+6abfa1dc0a506c80,Road to UFC 4.5 + 4.6,2025-08-22,Welterweight,0,Herb Dean,903ef36a6adc09a3,win,Decision - Split,3
+4db2d86ebe8c8abd,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Women's Flyweight,0,Jason Herzog,a9e260472d321361,win,Submission,1
+7736eb6bd5c1ff4a,UFC 297: Strickland vs. Du Plessis,2024-01-20,Women's Bantamweight,0,Mathew  Rocca,a9e260472d321361,win,Submission,3
+47a5d4bb68352055,UFC 289: Nunes vs. Aldana,2023-06-10,Women's Flyweight,0,Jerin Valel,a9e260472d321361,win,Decision - Unanimous,3
+521a0e016878d174,UFC 296: Edwards vs. Covington,2023-12-16,Light Heavyweight,0,Chris Tognoni,a495f599e787614f,win,Decision - Unanimous,3
+ef270d8cf29d071b,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Women's Strawweight,0,Jason Herzog,cffb87059e645bd1,win,KO/TKO,1
+c60a317c7767abb7,UFC 306: Riyadh Season Noche UFC,2024-09-14,Women's Strawweight,0,Jason Herzog,8bd4200561c77a62,win,Submission,1
+09a7f0979a58e6ea,UFC 293: Adesanya vs. Strickland,2023-09-09,Featherweight,0,Greg Kleynjans,e0c6edcb5b5d0b90,win,KO/TKO,2
+c35a53be30bfd066,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Featherweight,0,Rich Mitchell,f2f140ce7532e327,win,Submission,3
+bfff6cf22c1c569c,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Featherweight,0,Marc Goddard,a9da3158dd2c2b5a,win,KO/TKO,3
+28af78600d6580f1,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Featherweight,0,Jason Herzog,a9da3158dd2c2b5a,win,Decision - Unanimous,3
+b799bf8f19df7019,Road to UFC 4.1 + 4.2,2025-05-22,Featherweight,0,Mark Craig,f201f21cf2c79eb2,win,Decision - Unanimous,3
+c9578be72a48d1a1,Road to UFC 3.3 + 3.4,2024-05-19,Bantamweight,0,Steve Perceval,8677e67a75d65b8e,win,Submission,2
+d14c18eb7dc26a03,Road to UFC 3.5 + 3.6,2024-08-23,Bantamweight,0,Mark Smith,8677e67a75d65b8e,win,Decision - Unanimous,3
+abcd12bb4f404698,Road to UFC 2.3 + 2.4,2023-05-28,Bantamweight,0,Marc Goddard,a46fa1c7972548d0,win,Decision - Split,3
+58a314edcfe1d23a,Road to UFC 2.7,2024-02-03,Road to 2 Flyweight Tournament,1,Mark Smith,2f43a3e82661fa99,win,KO/TKO,1
+423dcc53da7e77b2,Road to UFC 3.3 + 3.4,2024-05-19,Flyweight,0,Mark Craig,3be16d817b36098b,win,Decision - Split,3
+d440a643a9c94150,Road To UFC 5.2,2026-05-29,Flyweight,0,Mark Craig,c14a683dac2ebc4c,win,Decision - Unanimous,3
+a43e4e50a17b4385,Road to UFC 2.1 + 2.2,2023-05-27,Flyweight,0,Marc Goddard,c14a683dac2ebc4c,win,KO/TKO,1
+94db9c6a2b94591a,Road to UFC 2.5 + 2.6,2023-08-27,Flyweight,0,Mark Craig,c14a683dac2ebc4c,win,Decision - Unanimous,3
+f02c0adc4ae629c6,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Lightweight,0,Kerry Hatley,519e4fe37ce9ff75,win,KO/TKO,2
+a95b03e9b5a91e47,UFC 318: Holloway vs. Poirier 3,2025-07-19,Lightweight,0,Kerry Hatley,511e82663651438d,win,Decision - Unanimous,3
+9c8d5dbd8905a715,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Middleweight,0,Marc Goddard,ad5cb64af10fc946,win,Decision - Split,3
+b5aafe149bec4306,UFC 324: Gaethje vs. Pimblett,2026-01-24,Flyweight,0,Jason Herzog,ab2b4ff41d6ebe0f,win,KO/TKO,1
+b35e47f2f58ef026,UFC 309: Jones vs. Miocic,2024-11-16,Heavyweight,1,Herb Dean,07f72a2a7591b409,win,KO/TKO,3
+636fd144716a3084,UFC 285: Jones vs. Gane,2023-03-04,Heavyweight,1,Marc Goddard,07f72a2a7591b409,win,Submission,1
+ec490d4224d3bc78,UFC 285: Jones vs. Gane,2023-03-04,Bantamweight,0,Jason Herzog,d8c7c61b176e3994,win,Decision - Unanimous,3
+65c89e0c92e51bb8,UFC 293: Adesanya vs. Strickland,2023-09-09,Welterweight,0,Jim Perdios,dda15dbfafb792df,win,Submission,1
+8bc8bb0021337de7,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Welterweight,0,Rich Mitchell,f782f953bfe7b5f2,win,Decision - Unanimous,3
+2b7883b304b3df1c,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Featherweight,0,Marc Goddard,52ef95b5860fb28c,win,KO/TKO,2
+331ddc1141e934d1,UFC 297: Strickland vs. Du Plessis,2024-01-20,Featherweight,0,Jerin Valel,4682bc59d5f55145,win,Decision - Split,3
+0c6e3c1f03cd4061,UFC 288: Sterling vs. Cejudo,2023-05-06,Featherweight,0,Gary Copeland,f1d64ae34e088832,win,Decision - Unanimous,3
+4218d1d1ce6d322c,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Lightweight,0,Jim Perdios,17734443a833cdf7,win,KO/TKO,1
+a602c68147b752b2,UFC 318: Holloway vs. Poirier 3,2025-07-19,Women's Flyweight,0,Bassel Mahgoub,f1ab6f37492c630a,win,KO/TKO,3
+75c5f923f966b53b,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Lightweight,0,Marc Goddard,d80ee110748171ac,win,KO/TKO,3
+a3d75cc363a6544b,UFC 293: Adesanya vs. Strickland,2023-09-09,Light Heavyweight,0,Herb Dean,9014c02eff8b3d62,win,Submission,3
+1569186ee820ea87,UFC 310: Pantoja vs. Asakura,2024-12-07,Welterweight,0,Marc Goddard,01afe0916a40c7c5,win,Decision - Unanimous,5
+fbf77262d8da342b,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Welterweight,0,Mark Smith,442c9011034ae1fd,win,Decision - Unanimous,3
+8fb0092430448368,UFC 298: Volkanovski vs. Topuria,2024-02-17,Welterweight,0,Frank Trigg,442c9011034ae1fd,win,Decision - Split,3
+78d2c01dc963f204,UFC 292: Sterling vs. O'Malley,2023-08-19,Welterweight,0,Keith Peterson,442c9011034ae1fd,win,Decision - Unanimous,3
+ed9f8f702585ed44,UFC 285: Jones vs. Gane,2023-03-04,Welterweight,0,Marc Goddard,442c9011034ae1fd,win,KO/TKO,3
+4c025d1fff9e9fce,UFC 295: Prochazka vs. Pereira,2023-11-11,Lightweight,0,Marc Goddard,7026eca45f65377b,win,KO/TKO,1
+1c51f405e5c46572,UFC 283: Teixeira vs. Hill,2023-01-21,Welterweight,0,Fernando Portella,23024fdfc966410a,win,Submission,1
+97817609ed46baa0,UFC 297: Strickland vs. Du Plessis,2024-01-20,Welterweight,0,Kevin MacDonald,84b3e7d38f2d2ec5,win,KO/TKO,3
+108434acbbd75d26,UFC 308: Topuria vs. Holloway,2024-10-26,Middleweight,0,Kerry Hatley,06734ca9d88dec3a,win,KO/TKO,2
+af6eeea1cfe33240,UFC 308: Topuria vs. Holloway,2024-10-26,Middleweight,0,Marc Goddard,36b8f265bcd1b7a4,win,Submission,3
+d006dd2513bd376d,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Middleweight,0,Chris Tognoni,c1085e1701b13eca,win,Submission,2
+539732694ab2c8d6,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Middleweight,0,Jason Herzog,06734ca9d88dec3a,win,Decision - Unanimous,3
+dd9cbf6d6284de26,UFC 286: Edwards vs. Usman 3,2023-03-18,Women's Flyweight,0,Herb Dean,8e1f36476ef02a6a,win,Decision - Unanimous,3
+856f6ee049373843,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Welterweight,1,Herb Dean,275aca31f61ba28c,win,Decision - Unanimous,5
+0ea435ddf02deb60,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Lightweight,1,Marc Goddard,275aca31f61ba28c,win,KO/TKO,1
+256894b49303537b,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Lightweight,1,Marc Goddard,275aca31f61ba28c,win,Decision - Unanimous,5
+daef1691c7d6b1e4,UFC 311: Makhachev vs. Moicano,2025-01-18,Lightweight,1,Herb Dean,275aca31f61ba28c,win,Submission,1
+1a0031e2072f21b6,UFC 302: Makhachev vs. Poirier,2024-06-01,Lightweight,1,Keith Peterson,275aca31f61ba28c,win,Submission,5
+0aae15358d8606b9,UFC 293: Adesanya vs. Strickland,2023-09-09,Lightweight,0,Jim Perdios,af9f42e6894047fc,win,Decision - Unanimous,3
+22dd728012944f0a,UFC 321: Aspinall vs. Gane,2025-10-25,Flyweight,0,Rich Mitchell,0be6776db31d98ec,win,Decision - Unanimous,3
+0047f8aadca1936f,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Middleweight,0,Steve Perceval,d4270315cbcf2569,win,Decision - Unanimous,3
+2521234a4bf7c615,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Welterweight,0,Marc Goddard,dd6103dd7127db1d,win,KO/TKO,2
+e9d5ffcacf7d8757,UFC 289: Nunes vs. Aldana,2023-06-10,Welterweight,0,Dan Miragliotta,dd6103dd7127db1d,win,Submission,2
+99fee9002241cdeb,Road To UFC 5.1,2026-05-28,Featherweight,0,Lukasz Bosacki,122ae3b34275fbb2,win,KO/TKO,1
+e050d88eec25781c,Road to UFC 4.3 + 4.4,2025-05-23,Lightweight,0,Thomas Fan,530af2900b5a1693,win,Decision - Unanimous,3
+ad14c502c9c5a7e9,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Road to 4 Lightweight Tournament,1,Daniel Movahedi,530af2900b5a1693,win,Decision - Unanimous,3
+286625c70abc4dbe,Road to UFC 4.5 + 4.6,2025-08-22,Lightweight,0,Vitor Ribeiro,530af2900b5a1693,win,Decision - Unanimous,3
+1d35e4c0941d1397,UFC 283: Teixeira vs. Hill,2023-01-21,Bantamweight,0,Fernando Portella,850266b3dc4e506e,win,KO/TKO,2
+e3cbd663732f4a98,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Featherweight,0,Dan Miragliotta,b8bbdeff718dbb7d,win,Decision - Unanimous,3
+c29e2c49e1e417c8,UFC 285: Jones vs. Gane,2023-03-04,Middleweight,0,Mark Smith,8e9eb3fc86db0f7d,win,KO/TKO,2
+19fe7177254802d1,UFC 313: Pereira vs. Ankalaev,2025-03-08,Featherweight,0,Chris Tognoni,480779d7f9a424d3,win,Decision - Split,3
+b3d88eaea611a4a8,UFC 301: Pantoja vs. Erceg,2024-05-04,Bantamweight,0,Mike Beltran,d0f3959b4a9747e6,win,Decision - Unanimous,3
+2a930e2d7e1f87a9,UFC 309: Jones vs. Miocic,2024-11-16,Bantamweight,0,Herb Dean,c0ac37a4a1133da9,win,Decision - Unanimous,3
+8a7fb78d9281413d,Road To UFC 5.1,2026-05-28,Lightweight,0,Marc Goddard,a13d755965a4ec9f,win,KO/TKO,1
+0eb16f1307f66a11,UFC 285: Jones vs. Gane,2023-03-04,Bantamweight,0,Herb Dean,3c8a5200436e19f3,win,Decision - Majority,3
+988c2d722b3f8a3b,Road to UFC 2.3 + 2.4,2023-05-28,Lightweight,0,Thomas Fan,a264d4e9a4d6bfe4,win,Submission,1
+945c49cb9dc90632,Road To UFC 5.2,2026-05-29,Women's Strawweight,0,Marc Goddard,2d85fcb4468c30d7,win,Decision - Unanimous,3
+fe2be48976cb678d,Road to UFC 4.1 + 4.2,2025-05-22,Women's Strawweight,0,Mark Craig,4c33b3d37955aa85,win,Decision - Split,3
+71ea7d7985dad804,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Welterweight,0,Marc Goddard,23024fdfc966410a,win,Decision - Unanimous,3
+4ce53d8a26693f06,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Welterweight,0,Mike Beltran,a845f0735bc67405,win,Decision - Unanimous,3
+7a8f218c07347c88,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Welterweight,0,Tyler Tomlinson,a845f0735bc67405,win,Submission,2
+b7575b0ec9f81741,UFC 302: Makhachev vs. Poirier,2024-06-01,Welterweight,0,Vitor Ribeiro,a845f0735bc67405,win,Decision - Unanimous,3
+b7d238437d6644ce,UFC 298: Volkanovski vs. Topuria,2024-02-17,Women's Flyweight,0,Frank Trigg,f29a6350c69f4a33,win,Decision - Unanimous,3
+74fef059e229d217,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Women's Flyweight,0,Dave Seljestad,f29a6350c69f4a33,win,Submission,3
+678eda89a096dde8,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Women's Strawweight,0,Daniel Movahedi,7138a15258dabf20,win,Decision - Unanimous,3
+db7e0a8b1c653ad9,Road to UFC 3.5 + 3.6,2024-08-23,Women's Flyweight,0,Kerry Hatley,2a9f9db24cd032ba,win,Decision - Unanimous,3
+c037cf1f7b429d5e,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Middleweight,0,Blake Grice,d1feea7a4bdcd503,win,KO/TKO,3
+989760fa75321d69,UFC 329: McGregor vs. Holloway 2,2026-07-11,Welterweight,0,Mike Beltran,150ff4cc642270b9,win,KO/TKO,1
+84b3577229880760,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Welterweight,0,Jason Herzog,523fa774700d7d3f,win,Submission,1
+a26ea74f2e908842,UFC 329: McGregor vs. Holloway 2,2026-07-11,Lightweight,0,Kerry Hatley,887961364be5ceb3,win,KO/TKO,1
+d7be78c400e7e0f9,UFC 317: Topuria vs. Oliveira,2025-06-28,Lightweight,0,Chris Tognoni,809bd1a871491508,win,Submission,1
+b3d2ac2244e4f791,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Lightweight,0,Marc Goddard,fd406a32a6fb3a29,win,Submission,1
+911b73db91738da6,UFC 283: Teixeira vs. Hill,2023-01-21,Lightweight,0,Osiris Maia,eb393afdbe3293d5,win,KO/TKO,2
+74099d470e8d2765,UFC 318: Holloway vs. Poirier 3,2025-07-19,Middleweight,0,Kerry Hatley,1e719d4b676dc19a,win,Submission,1
+0e8599eca8ccfa32,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Lightweight,0,Jason Herzog,e2be0c1a9b886d92,win,Decision - Unanimous,3
+81d20c833e9a76eb,UFC 327: Prochazka vs. Ulberg,2026-04-11,Lightweight,0,Keith Peterson,,draw,Decision - Majority,3
+3de326b65aa6245d,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Welterweight,0,Tyler Tomlinson,681399317dbf4701,win,KO/TKO,3
+9bbdc2a2ab334541,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Middleweight,0,Herb Dean,d6c0cdd7e467c440,win,Submission,1
+28e3d939eb043664,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Middleweight,0,Marc Goddard,c1085e1701b13eca,win,KO/TKO,1
+5b880d10b0ed7acc,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Middleweight,0,Herb Dean,0d65c432720accb9,win,KO/TKO,1
+9f7c28381b6913c8,UFC 292: Sterling vs. O'Malley,2023-08-19,Middleweight,0,Herb Dean,5f61780fe5e9b6d0,win,Decision - Split,3
+6ef12db5b099ec81,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Light Heavyweight,0,Mark Smith,a495f599e787614f,win,Submission,2
+ec03739c836fadc8,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Light Heavyweight,0,Marc Goddard,,draw,Decision - Majority,3
+78912b78aa946375,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Welterweight,0,Marc Goddard,f782f953bfe7b5f2,win,Submission,2
+53d6d5ad08ac0694,UFC 286: Edwards vs. Usman 3,2023-03-18,Women's Flyweight,0,Lukasz Bosacki,4798e823ada58fe9,win,Decision - Unanimous,3
+210fc45074fba464,UFC 324: Gaethje vs. Pimblett,2026-01-24,Welterweight,0,Chris Tognoni,0859524157a19045,win,KO/TKO,1
+e50857173607d631,UFC 328: Chimaev vs. Strickland,2026-05-09,Lightweight,0,Keith Peterson,d1941565abf50b16,win,Submission,1
+11eb27a1ac74d225,UFC 314: Volkanovski vs. Lopes,2025-04-12,Lightweight,0,Kerry Hatley,971246648e162f0d,win,Decision - Unanimous,3
+efdad54c8550e6e0,UFC 300: Pereira vs. Hill,2024-04-13,Lightweight,0,Marc Goddard,887961364be5ceb3,win,Decision - Unanimous,3
+b4987a1df3364cf0,Road To UFC 5.1,2026-05-28,Bantamweight,0,Vitor Ribeiro,3a51f8d30900b580,win,Submission,3
+5d481ff494bf40da,UFC 293: Adesanya vs. Strickland,2023-09-09,Featherweight,0,Greg Kleynjans,b909a9a9688b5284,win,Submission,1
+3b21a9f48bac4a44,UFC 296: Edwards vs. Covington,2023-12-16,Featherweight,0,Herb Dean,fba03cd6cc28dc41,win,KO/TKO,1
+8c540eb4afe8c43e,UFC 314: Volkanovski vs. Lopes,2025-04-12,Featherweight,0,Mike Beltran,52ef95b5860fb28c,win,Submission,2
+0292b9c31c0089ac,UFC 310: Pantoja vs. Asakura,2024-12-07,Featherweight,0,Keith Peterson,d9c6f19f958643e9,win,KO/TKO,3
+dbf8a4b0870a47d1,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Bantamweight,0,Mark Smith,3c8a5200436e19f3,win,KO/TKO,1
+990de0c502b78823,Road To UFC 5.1,2026-05-28,Bantamweight,0,Vitor Ribeiro,000774e57404d8c7,win,Submission,2
+b09ecdc8ef0f0d20,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Bantamweight,0,Jason Herzog,6902fcf0610dd303,win,Decision - Split,3
+df5dac45fc585fb0,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Bantamweight,0,Keith Peterson,bc711b6dd95c1af6,win,Decision - Unanimous,3
+ef1519c8c1d20977,UFC 321: Aspinall vs. Gane,2025-10-25,Women's Strawweight,0,Kerry Hatley,43a59ce3bb40449e,win,Decision - Unanimous,3
+e9256316716499b8,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Flyweight,0,Jason Herzog,75353550928a7921,win,Submission,3
+f40ac11da3bd7f8e,UFC 286: Edwards vs. Usman 3,2023-03-18,Flyweight,0,Herb Dean,75353550928a7921,win,Submission,3
+d6e240c47ba6034d,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Flyweight,0,Mike Beltran,75353550928a7921,win,Decision - Unanimous,3
+8cdcdfb76d1670dd,UFC 283: Teixeira vs. Hill,2023-01-21,Lightweight,0,Osiris Maia,d945aae53e3e54e6,win,Submission,2
+1ea9ad3b6e1cba79,UFC 317: Topuria vs. Oliveira,2025-06-28,Lightweight,0,Mark Smith,08af939f41b5a57b,win,Decision - Unanimous,3
+18824fa5c15c212f,UFC 300: Pereira vs. Hill,2024-04-13,Lightweight,0,Herb Dean,b6452706b373eea1,win,KO/TKO,2
+6feb49a6b7e8433c,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Featherweight,0,Kerry Hatley,a112097ad877a48f,win,Submission,2
+68c423c7119004f3,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Ultimate Fighter 33 Flyweight Tournament,1,Nick Cimmarusti,2fe9032955c2e013,win,Submission,2
+477af74ea3cbba8b,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Welterweight,0,Blake Grice,c32aeb1a59e6272d,win,KO/TKO,1
+cdaf65287d9a0ecb,UFC 286: Edwards vs. Usman 3,2023-03-18,Lightweight,0,Lukasz Bosacki,fd406a32a6fb3a29,win,Decision - Split,3
+f329bd89e375d6df,UFC 292: Sterling vs. O'Malley,2023-08-19,Women's Flyweight,0,John English,9d62c2d8ee151f08,win,Submission,1
+3677ce6c1ee06a83,UFC 299: O'Malley vs. Vera 2,2024-03-09,Women's Flyweight,0,Mike Beltran,12f91bfa8f1f723b,win,Decision - Split,3
+fbbb9e72900b71f5,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Flyweight,0,Mark Smith,4461d7e47375a895,win,KO/TKO,2
+0462bcc27498f7c4,UFC 283: Teixeira vs. Hill,2023-01-21,Flyweight,1,Herb Dean,792be9a24df82ed6,win,TKO - Doctor's Stoppage,3
+0f24f3bc1b39ea45,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Flyweight,1,Jason Herzog,a0f0004aadf10b71,win,Decision - Split,5
+cab4937435d081d0,UFC 313: Pereira vs. Ankalaev,2025-03-08,Welterweight,0,Keith Peterson,28d421729451c8ca,win,KO/TKO,1
+b5d5b8e06ccb70a3,UFC 302: Makhachev vs. Poirier,2024-06-01,Welterweight,0,Keith Peterson,d8da10db80131bec,win,Decision - Unanimous,3
+7a3b155d223f5242,Road to UFC 3.5 + 3.6,2024-08-23,Women's Strawweight,0,Chris Tognoni,c940b42df95bbd28,win,Decision - Unanimous,3
+40e2a7b65794ac05,UFC 309: Jones vs. Miocic,2024-11-16,Women's Flyweight,0,Dan Miragliotta,de594b35c45c2e9a,win,Decision - Unanimous,3
+b873c116e39c9920,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Welterweight,1,Jason Herzog,6b453bc35a823c3f,win,Decision - Unanimous,5
+ed707998b13d0101,UFC 288: Sterling vs. Cejudo,2023-05-06,Welterweight,0,Keith Peterson,b1b0729d27936f2f,win,Decision - Unanimous,5
+ec5163539a133f17,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Welterweight,1,Mike Beltran,b1b0729d27936f2f,win,Decision - Unanimous,5
+32e9bc4d0a19a923,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Lightweight,0,Daniel Movahedi,17734443a833cdf7,win,Submission,1
+b9de363e6b406853,UFC 301: Pantoja vs. Erceg,2024-05-04,Lightweight,0,Osiris Maia,9c393e836a852f30,win,KO/TKO,1
+a37a6b6f9551a6e8,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Lightweight,0,Marc Goddard,af9f42e6894047fc,win,Decision - Unanimous,3
+1c7cc3a22ab7d907,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Middleweight,0,Mark Smith,4144798612ef96e5,win,KO/TKO,1
+621e6f0929a3dbfc,UFC 292: Sterling vs. O'Malley,2023-08-19,Bantamweight,0,Herb Dean,7c7332319c14094c,win,Decision - Unanimous,3
+ebb758b49e82d0ed,UFC 299: O'Malley vs. Vera 2,2024-03-09,Bantamweight,0,Keith Peterson,60425d07ef4b91a7,win,Decision - Unanimous,3
+f516bc15c094cb2d,Road to UFC 3.5 + 3.6,2024-08-23,Welterweight,0,Herb Dean,6f4d199c0adc06f5,win,Decision - Unanimous,3
+9fa6a029f7f8241c,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Featherweight,0,Herb Dean,396fe87b84ac2e1c,win,KO/TKO,1
+cc11a0762f246fa4,UFC 308: Topuria vs. Holloway,2024-10-26,Featherweight,0,Mark Smith,396fe87b84ac2e1c,win,Decision - Unanimous,3
+533984c3ff4b4858,UFC 286: Edwards vs. Usman 3,2023-03-18,Featherweight,0,Rich Mitchell,396fe87b84ac2e1c,win,Decision - Split,3
+0221982930283140,UFC 283: Teixeira vs. Hill,2023-01-21,Women's Flyweight,0,Osiris Maia,6a1901c62ab3870f,win,Decision - Unanimous,3
+ef12d2aaaadaf6d0,UFC 321: Aspinall vs. Gane,2025-10-25,Light Heavyweight,0,Rich Mitchell,e90a2f22417af68e,win,KO/TKO,1
+01100a90b584215d,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Light Heavyweight,0,Mike Beltran,e90a2f22417af68e,win,KO/TKO,1
+aade9d76ac6c6aef,UFC 327: Prochazka vs. Ulberg,2026-04-11,Light Heavyweight,0,Keith Peterson,2e5c2aa8e4ab9d82,win,KO/TKO,3
+2554b31a07f34e1a,UFC 302: Makhachev vs. Poirier,2024-06-01,Women's Bantamweight,0,Gasper Oliver,06e4245d16fc5315,win,Decision - Unanimous,3
+3c60884853766487,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Welterweight,0,Keith Peterson,7ee0fd831c0fe7c3,win,KO/TKO,2
+c483ac06b1e33c3b,UFC 286: Edwards vs. Usman 3,2023-03-18,Welterweight,1,Herb Dean,f1fac969a1d70b08,win,Decision - Majority,5
+3fa8ee3fdc04fe36,UFC 296: Edwards vs. Covington,2023-12-16,Welterweight,1,Herb Dean,f1fac969a1d70b08,win,Decision - Unanimous,5
+d94f1b32a81e3fa1,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Light Heavyweight,0,Herb Dean,07a74004d964c7f4,win,Submission,2
+a6db8eb1fb3eebf2,UFC 311: Makhachev vs. Moicano,2025-01-18,Light Heavyweight,0,Mike Beltran,ef5dcb10d2bd4b0f,win,Submission,2
+08e7a39eb7482ebf,UFC 314: Volkanovski vs. Lopes,2025-04-12,Featherweight,0,Mike Beltran,902ec2cc48c8ae8a,win,KO/TKO,1
+16b0a16ab2e20fdb,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Welterweight,0,Daniel Movahedi,6b56e94a59b7b134,win,Decision - Unanimous,3
+9676a4e9362e4bfd,UFC 309: Jones vs. Miocic,2024-11-16,Welterweight,0,Marc Goddard,6b56e94a59b7b134,win,KO/TKO,3
+9ddaa62cc806958d,UFC 298: Volkanovski vs. Topuria,2024-02-17,Welterweight,0,Jonathan Romero,6b56e94a59b7b134,win,Decision - Unanimous,3
+82338ba457fbe87f,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Flyweight,0,Robert Madrigal,c96d9178c9ed9e62,win,Submission,2
+118c25bda9392140,UFC 329: McGregor vs. Holloway 2,2026-07-11,Heavyweight,0,Marc Goddard,f7e856a73c96048e,win,KO/TKO,1
+1cf69de0eea46877,UFC 295: Prochazka vs. Pereira,2023-11-11,Featherweight,0,Keith Peterson,e00a3dee329a51f7,win,KO/TKO,1
+84ebd144d5e79c88,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Featherweight,0,Jason Herzog,52c2ae6d2f2d2613,win,Submission,1
+2208b9f471a201d9,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Featherweight,1,Jason Herzog,cbf5e6f231b55443,win,Submission,2
+bf8c5effd23f69c4,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Flyweight,0,Rich Mitchell,853eb0dd5c0e2149,win,KO/TKO,1
+3f419fce8ba8aa0e,UFC 301: Pantoja vs. Erceg,2024-05-04,Flyweight,1,Marc Goddard,a0f0004aadf10b71,win,Decision - Unanimous,5
+5704e73f91b9e7f7,UFC 295: Prochazka vs. Pereira,2023-11-11,Flyweight,0,Marc Goddard,32ab52e5de93092d,win,Decision - Unanimous,3
+947ea1122c04ba18,UFC 289: Nunes vs. Aldana,2023-06-10,Flyweight,0,Mitch Cadlick,32ab52e5de93092d,win,Decision - Unanimous,3
+99aa1f28e22bb6dd,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Light Heavyweight,0,Erick Philippeaux,b4b496ec2197ee3e,win,Decision - Unanimous,3
+58e5fc1914c4e641,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Women's Strawweight,0,Tyler Tomlinson,31ef8b67e13495b3,win,Decision - Unanimous,3
+1a7cd191f0cf160c,UFC 297: Strickland vs. Du Plessis,2024-01-20,Featherweight,0,Marc Goddard,76e2870ffafbe38f,win,Decision - Unanimous,3
+df30514e0674d598,UFC 310: Pantoja vs. Asakura,2024-12-07,Featherweight,0,Jason Herzog,76e2870ffafbe38f,win,Decision - Unanimous,3
+069ab7e7b8b5d262,UFC 288: Sterling vs. Cejudo,2023-05-06,Featherweight,0,Keith Peterson,76e2870ffafbe38f,win,Decision - Unanimous,3
+e313286b307334a7,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Featherweight,0,Keith Peterson,d776b5814f2400b4,win,Decision - Unanimous,3
+fcf385ae75191b57,UFC 283: Teixeira vs. Hill,2023-01-21,Women's Featherweight,0,Marc Goddard,68d35296f566792b,win,Decision - Unanimous,3
+6114076c689e8457,UFC 308: Topuria vs. Holloway,2024-10-26,Welterweight,0,Vitor Ribeiro,8f765fd5775a8873,win,Decision - Unanimous,3
+25dd929221f19ddd,Road to UFC 3.1 + 3.2,2024-05-18,Women's Strawweight,0,Thomas Fan,c940b42df95bbd28,win,KO/TKO,1
+6bcf38174b14d1db,Road To UFC 5.2,2026-05-29,Women's Strawweight,0,Lukasz Bosacki,8f3837b4c06f3d1e,win,TKO - Doctor's Stoppage,1
+f1eca70738ca073e,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Lightweight,0,Dan Miragliotta,887961364be5ceb3,win,Submission,3
+ac8628d945a78b03,UFC 296: Edwards vs. Covington,2023-12-16,Lightweight,0,Mark Smith,7826923b47f8d72a,win,Decision - Unanimous,3
+a5abdc461cb1538e,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Light Heavyweight,0,Kerry Hatley,69898645d600abdb,win,KO/TKO,1
+6a4738656c493ee9,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Middleweight,0,Chris Tognoni,d1c65d2cf2925ddd,win,KO/TKO,1
+e61cb905f6152183,UFC 313: Pereira vs. Ankalaev,2025-03-08,Middleweight,0,Mark Smith,1e719d4b676dc19a,win,Submission,2
+5ad8aa57c8d69680,UFC 283: Teixeira vs. Hill,2023-01-21,Middleweight,0,Fernando Portella,1e719d4b676dc19a,win,KO/TKO,1
+aa3fca085d476636,UFC 311: Makhachev vs. Moicano,2025-01-18,Lightweight,0,Frank Trigg,99bd51917728c25d,win,Decision - Unanimous,3
+3c683da1924b6c44,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Middleweight,0,Chris Tognoni,1e719d4b676dc19a,win,Decision - Unanimous,3
+6c9f4799990c3c33,UFC 324: Gaethje vs. Pimblett,2026-01-24,Bantamweight,0,Herb Dean,2b6fc1c02736833d,win,Decision - Unanimous,3
+3ab0d8b344d2ebea,UFC 300: Pereira vs. Hill,2024-04-13,Bantamweight,0,Mark Smith,aa72b0f831d0bfe5,win,Submission,2
+9e9d1764a015f313,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Women's Flyweight,1,Marc Goddard,132deb59abae64b1,win,Decision - Unanimous,5
+abb6e2169ba580d2,UFC 296: Edwards vs. Covington,2023-12-16,Featherweight,0,Jason Herzog,8fd808923cffff82,win,KO/TKO,1
+08489fdfb56ee19c,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Featherweight,0,Jason Herzog,8fd808923cffff82,win,Decision - Split,3
+57d7a683b85bb87b,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Lightweight,0,Daniel Movahedi,9c393e836a852f30,win,KO/TKO,2
+90a83875e1d11238,UFC 286: Edwards vs. Usman 3,2023-03-18,Lightweight,0,Marc Goddard,9e8f6c728eb01124,win,Decision - Majority,3
+a2f31cf3a28a7730,UFC 313: Pereira vs. Ankalaev,2025-03-08,Lightweight,0,Jason Herzog,9e8f6c728eb01124,win,Decision - Unanimous,3
+ab105e5a56b5ee90,UFC 297: Strickland vs. Du Plessis,2024-01-20,Flyweight,0,Todd Ronald Anderson,09e62c450e754913,win,Submission,2
+bed89a91da9d04c1,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Bantamweight,0,Jason Herzog,fe2babf95de24fb1,win,Decision - Unanimous,3
+678d27af287476f8,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Bantamweight,0,Keith Peterson,05339613bf8e9808,win,KO/TKO,1
+abfb3ed6dcb0e1f0,UFC 324: Gaethje vs. Pimblett,2026-01-24,Heavyweight,0,Mark Smith,955da1675ad58a50,win,KO/TKO,1
+18e5af00a8478a0e,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Women's Strawweight,0,Daniel Movahedi,6c9b66b43663f2f7,win,Decision - Unanimous,3
+37bc72d5d211b189,UFC 318: Holloway vs. Poirier 3,2025-07-19,Welterweight,0,Mike Beltran,e803242fb2e41112,win,KO/TKO,1
+9fe98de1eac21f2e,UFC 295: Prochazka vs. Pereira,2023-11-11,Lightweight,0,Mike Beltran,c2299ec916bc7c56,win,KO/TKO,1
+3f8b4aeb3baf4724,UFC 288: Sterling vs. Cejudo,2023-05-06,Lightweight,0,Herb Dean,dccb63727f2f5f74,win,KO/TKO,1
+2657e5e7b6c5918b,Road To UFC 5.2,2026-05-29,Women's Strawweight,0,Vitor Ribeiro,42189c98d434a413,win,KO/TKO,2
+cf5e8f98159c3971,UFC 300: Pereira vs. Hill,2024-04-13,Lightweight,0,Marc Goddard,150ff4cc642270b9,win,KO/TKO,5
+fa4b3f5ce8055921,UFC 324: Gaethje vs. Pimblett,2026-01-24,Lightweight,1,Marc Goddard,9e8f6c728eb01124,win,Decision - Unanimous,5
+c27e33ee8ef53866,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Lightweight,0,Herb Dean,9e8f6c728eb01124,win,KO/TKO,2
+e5e3d396a9b1c5ae,UFC 311: Makhachev vs. Moicano,2025-01-18,Bantamweight,0,Jason Herzog,a54660deb6a8489c,win,Decision - Unanimous,3
+ed3334d108b257a6,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Bantamweight,0,Marc Goddard,0fd5f4b838e890cc,win,Submission,1
+00414fc5519233b4,UFC 309: Jones vs. Miocic,2024-11-16,Welterweight,0,Kevin MacDonald,3d074044a33825e7,win,KO/TKO,1
+7d9bb6fda0ea1ee0,UFC 302: Makhachev vs. Poirier,2024-06-01,Welterweight,0,Jason Herzog,f4d92416da98804b,win,Decision - Unanimous,3
+d6d034e98ce85246,UFC 285: Jones vs. Gane,2023-03-04,Lightweight,0,Mark Smith,72db2a14ffa73ece,win,Decision - Split,3
+059f5cf0e9e37627,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Lightweight,0,Jim Perdios,193b9d1858bc4df3,win,Decision - Split,3
+8baff440b82afd2b,UFC 299: O'Malley vs. Vera 2,2024-03-09,Lightweight,0,Dan Miragliotta,72db2a14ffa73ece,win,Decision - Unanimous,3
+62b5ce408c150fa8,UFC 327: Prochazka vs. Ulberg,2026-04-11,Lightweight,0,Kevin MacDonald,72db2a14ffa73ece,win,Submission,2
+1162a74e3604c488,UFC 329: McGregor vs. Holloway 2,2026-07-11,Middleweight,0,Mike Beltran,e463ce0a2ca474f4,win,KO/TKO,1
+f706508c52f337a6,UFC 310: Pantoja vs. Asakura,2024-12-07,Heavyweight,0,Mark Smith,787bb1f087ccff8a,win,Decision - Split,3
+6390c8e74630473e,UFC 321: Aspinall vs. Gane,2025-10-25,Heavyweight,1,Jason Herzog,,no_contest,Could Not Continue,1
+ecd16d14a138d7fb,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Bantamweight,0,Herb Dean,d8c7c61b176e3994,win,Decision - Unanimous,3
+f8a8871d167fc929,UFC 296: Edwards vs. Covington,2023-12-16,Bantamweight,0,Marc Goddard,d8c7c61b176e3994,win,KO/TKO,1
+e9f389ba3a1e33c4,UFC 329: McGregor vs. Holloway 2,2026-07-11,Bantamweight,0,Herb Dean,0232cabbc30a2372,win,KO/TKO,1
+0810cdbeb9dd4d02,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Featherweight,0,Larry Folsom,97cf1a2c7c5e7889,win,KO/TKO,2
+9e00ee7644774e18,UFC 329: McGregor vs. Holloway 2,2026-07-11,Bantamweight,0,Marc Goddard,a09ed60aa67a3f67,win,Decision - Unanimous,3
+9418ebb3db2a4bae,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Middleweight,0,Marc Goddard,2f815ed5f8278ba6,win,KO/TKO,1
+72e477b41f44e358,UFC 318: Holloway vs. Poirier 3,2025-07-19,Middleweight,0,Herb Dean,2f815ed5f8278ba6,win,KO/TKO,1
+770c5302e32916ea,UFC 328: Chimaev vs. Strickland,2026-05-09,Middleweight,0,Gary Copeland,2f815ed5f8278ba6,win,KO/TKO,2
+33be2456161c14c3,UFC 324: Gaethje vs. Pimblett,2026-01-24,Middleweight,0,Mark Smith,2f815ed5f8278ba6,win,Decision - Unanimous,3
+20868a67bea63129,UFC 327: Prochazka vs. Ulberg,2026-04-11,Middleweight,0,Kevin MacDonald,6d4b63c767106d3a,win,Submission,1
+e28e829800466aca,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Middleweight,0,Mike Beltran,c1085e1701b13eca,win,Decision - Unanimous,3
+bbc76ff9e1b1b142,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Middleweight,0,Marc Goddard,8c0580d4fff106c1,win,Decision - Unanimous,3
+5f8a92f10e5451ce,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Bantamweight,0,Chris Tognoni,6e743a33d56bdaa4,win,KO/TKO,1
+fce6522f42b48f18,UFC 296: Edwards vs. Covington,2023-12-16,Heavyweight,0,Mark Smith,6747ccd6d1acd266,win,KO/TKO,2
+e9754f597ec50f6f,UFC 292: Sterling vs. O'Malley,2023-08-19,Bantamweight,0,Marc Goddard,7b433309b0fd12aa,win,Decision - Unanimous,3
+4327fe98e1b6f222,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Welterweight,0,Herb Dean,01641ba5df0c69b0,win,Submission,1
+ea824ac4b8ed8a35,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Welterweight,0,Jim Perdios,32490e80ddab1e5a,win,Decision - Unanimous,3
+e2b742101d18408f,Road to UFC 2.3 + 2.4,2023-05-28,Bantamweight,0,Marc Goddard,fd52e5f9ab25c94c,win,Submission,1
+f506977877074aa6,UFC 327: Prochazka vs. Ulberg,2026-04-11,Women's Strawweight,0,Herb Dean,b08012bbe542592a,win,Submission,2
+a2eafd9e1d5031b1,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Women's Strawweight,0,Nick Cimmarusti,8e5d953bdb9ae5e7,win,Decision - Unanimous,3
+a0362d60d2e1db0d,UFC 295: Prochazka vs. Pereira,2023-11-11,Women's Strawweight,0,Dan Miragliotta,8e5d953bdb9ae5e7,win,Decision - Split,3
+780147f2ed2637d1,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Women's Strawweight,0,Larry Folsom,8e5d953bdb9ae5e7,win,Decision - Split,3
+303018d7459323b4,UFC 328: Chimaev vs. Strickland,2026-05-09,Featherweight,0,Vincent Dudley,b8bbdeff718dbb7d,win,Decision - Unanimous,3
+6068385c48de6801,UFC 286: Edwards vs. Usman 3,2023-03-18,Flyweight,0,Marc Goddard,60a42bf82447c919,win,KO/TKO,1
+b87d6f71d901355b,UFC 314: Volkanovski vs. Lopes,2025-04-12,Middleweight,0,Marc Goddard,9384e71bca6c409d,win,KO/TKO,2
+4914f7bd073c6359,UFC 310: Pantoja vs. Asakura,2024-12-07,Welterweight,0,Mark Smith,6d4b63c767106d3a,win,Submission,1
+0f53eb509d0ffeb9,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Women's Flyweight,0,Erick Philippeaux,262d32ebda89efc4,win,Decision - Unanimous,3
+6f83cfae0c800ef8,UFC 306: Riyadh Season Noche UFC,2024-09-14,Women's Flyweight,1,Mark Smith,132deb59abae64b1,win,Decision - Unanimous,5
+a69afe4a88c0ca12,UFC 285: Jones vs. Gane,2023-03-04,Women's Flyweight,1,Jason Herzog,e8b731feff72294b,win,Submission,4
+a5c57b0f49e9f61c,UFC 310: Pantoja vs. Asakura,2024-12-07,Welterweight,0,Marc Goddard,c58f51dedb310998,win,Submission,3
+1158a27a1a04b971,UFC 328: Chimaev vs. Strickland,2026-05-09,Lightweight,0,Gary Copeland,887961364be5ceb3,win,Submission,1
+231968c02cdfe65e,UFC 313: Pereira vs. Ankalaev,2025-03-08,Lightweight,0,Chris Tognoni,9c393e836a852f30,win,KO/TKO,1
+3e2bde19e752f64b,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Lightweight,0,Lukasz Bosacki,7826923b47f8d72a,win,Submission,1
+72b12a837290b327,UFC 310: Pantoja vs. Asakura,2024-12-07,Lightweight,0,Keith Peterson,971246648e162f0d,win,Submission,1
+6d6ab10cbaa45e8c,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Light Heavyweight,0,Jason Herzog,,draw,Decision - Majority,3
+f0488a4486a64af0,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Welterweight,0,Mike Beltran,2caf993f53541fa1,win,Decision - Unanimous,3
+9d8c32c60df0e287,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Bantamweight,0,Lukasz Bosacki,60a42bf82447c919,win,Decision - Unanimous,3
+e53fd165a3bc1f8e,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Bantamweight,0,Herb Dean,a09ed60aa67a3f67,win,Decision - Unanimous,3
+627670ad216539d9,Road to UFC 3.1 + 3.2,2024-05-18,Featherweight,0,Steve Perceval,05b17ae24e6bba81,win,Decision - Unanimous,3
+2f35172fe91bf5d6,Road to UFC 3.5 + 3.6,2024-08-23,Featherweight,0,Kerry Hatley,6f4ec5aa3eced219,win,Decision - Split,3
+7a730541f3fde4aa,Road to UFC 2.7,2024-02-03,Road to 2 Lightweight Tournament,1,Herb Dean,a13d755965a4ec9f,win,Submission,3
+543629cffefa50a5,Road to UFC 2.5 + 2.6,2023-08-27,Lightweight,0,Mark Craig,05b17ae24e6bba81,win,Decision - Unanimous,3
+cb902d73389ed34b,UFC 321: Aspinall vs. Gane,2025-10-25,Lightweight,0,Kerry Hatley,17734443a833cdf7,win,KO/TKO,1
+bfff5a3777841344,UFC 293: Adesanya vs. Strickland,2023-09-09,Lightweight,0,Marc Goddard,b7b84ccd221be298,win,Decision - Unanimous,3
+6ecb0ce98d30dd9b,Road to UFC 2.3 + 2.4,2023-05-28,Lightweight,0,Thomas Fan,05b17ae24e6bba81,win,KO/TKO,2
+98883348ddb3be33,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Women's Flyweight,0,Jason Herzog,4798e823ada58fe9,win,Decision - Unanimous,3
+9ea124a13d071186,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Women's Bantamweight,0,Marc Goddard,1af1170ed937cba7,win,Decision - Unanimous,3
+81b84b34f0357fa5,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Women's Bantamweight,1,Vitor Ribeiro,1af1170ed937cba7,win,Submission,2
+b1ac165326d8f29e,UFC 300: Pereira vs. Hill,2024-04-13,Women's Bantamweight,0,Marc Goddard,1af1170ed937cba7,win,Submission,2
+d22de60b7a3d908c,UFC 288: Sterling vs. Cejudo,2023-05-06,Middleweight,0,Gasper Oliver,b07aed698fba8624,win,KO/TKO,1
+0d1af8c6a5793185,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Bantamweight,0,Lukasz Bosacki,,no_contest,Could Not Continue,2
+938c2c71b84e56ff,UFC 286: Edwards vs. Usman 3,2023-03-18,Lightweight,0,Rich Mitchell,,draw,Decision - Majority,3
+e8aad69aace1d31f,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Lightweight,0,Tyler Tomlinson,262a7d06203657e6,win,Decision - Split,3
+f87a3fa07f0009c9,UFC 298: Volkanovski vs. Topuria,2024-02-17,Middleweight,0,Jason Herzog,093e1f5bb73850be,win,Submission,2
+1d8dc0fb5d47357f,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Lightweight,0,Jason Herzog,262a7d06203657e6,win,KO/TKO,1
+958522de54ccc536,UFC 317: Topuria vs. Oliveira,2025-06-28,Middleweight,0,Herb Dean,d1c65d2cf2925ddd,win,KO/TKO,1
+7856621db043423d,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Flyweight,0,Marc Goddard,2f43a3e82661fa99,win,Decision - Unanimous,3
+043172689e415438,UFC 317: Topuria vs. Oliveira,2025-06-28,Heavyweight,0,Herb Dean,25f9a5f3e8a52618,win,Decision - Unanimous,3
+e4931f3ab3bf4141,UFC 300: Pereira vs. Hill,2024-04-13,Light Heavyweight,1,Jason Herzog,e5549c82bfb5582d,win,KO/TKO,1
+959fea398ffa5778,UFC 311: Makhachev vs. Moicano,2025-01-18,Light Heavyweight,0,Mike Beltran,009341ed974bad72,win,KO/TKO,3
+dde7d29cc443e263,UFC 283: Teixeira vs. Hill,2023-01-21,Light Heavyweight,1,Marc Goddard,5444c5a201d3ee5a,win,Decision - Unanimous,5
+6c2c6a6e3f4d04db,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Women's Strawweight,0,Marc Goddard,745fa7b605f8e2da,win,Decision - Unanimous,3
+ebf7cea27b83c432,UFC 308: Topuria vs. Holloway,2024-10-26,Featherweight,1,Marc Goddard,54f64b5e283b0ce7,win,KO/TKO,3
+d7507e2741fd4d05,UFC 318: Holloway vs. Poirier 3,2025-07-19,Lightweight,0,Jason Herzog,150ff4cc642270b9,win,Decision - Unanimous,5
+1d74f34a01169c96,Road to UFC 2.3 + 2.4,2023-05-28,Welterweight,0,Marc Goddard,00b490982afd1b17,win,KO/TKO,3
+903552edaba48f4a,UFC 327: Prochazka vs. Ulberg,2026-04-11,Heavyweight,0,Herb Dean,955da1675ad58a50,win,Decision - Unanimous,3
+f030febede41c661,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Lightweight,0,Marc Goddard,07225ba28ae309b6,win,Decision - Unanimous,5
+69d63c057aebffaf,UFC 311: Makhachev vs. Moicano,2025-01-18,Middleweight,0,Frank Trigg,d549cefc7c54ab78,win,Submission,1
+b4e16fb13153efdc,UFC 327: Prochazka vs. Ulberg,2026-04-11,Welterweight,0,Marc Goddard,3a46b268013afede,win,Decision - Unanimous,3
+5dde61734080ac4a,UFC 318: Holloway vs. Poirier 3,2025-07-19,Welterweight,0,Mike Beltran,8a1f3b5c526cd6e6,win,Decision - Unanimous,3
+2129acab2280bd29,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Welterweight,0,Keith Peterson,3a46b268013afede,win,Submission,2
+605c16fa5a803b15,UFC 302: Makhachev vs. Poirier,2024-06-01,Middleweight,0,Herb Dean,3a46b268013afede,win,Submission,1
+5931cd9cf5da5f75,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Middleweight,0,Jason Herzog,327d5f279895110d,win,KO/TKO,1
+270edfb687c0d20c,UFC 299: O'Malley vs. Vera 2,2024-03-09,Welterweight,0,Dan Miragliotta,a67d071163962af8,win,Decision - Unanimous,3
+cbf1e76186a0c8b3,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Welterweight,0,Marc Goddard,3a46b268013afede,win,Submission,1
+3165b03ddc6d3b6e,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Welterweight,0,Dan Miragliotta,3a46b268013afede,win,KO/TKO,3
+93fb6c7e590487f9,UFC 288: Sterling vs. Cejudo,2023-05-06,Middleweight,0,Gary Copeland,972c456ff38b2015,win,KO/TKO,2
+62d53ad8f8769666,UFC 292: Sterling vs. O'Malley,2023-08-19,Lightweight,0,John English,a7151778b3381036,win,Submission,2
+7bd6c1021523eaa6,Road to UFC 2.3 + 2.4,2023-05-28,Lightweight,0,Mark Craig,a13d755965a4ec9f,win,KO/TKO,1
+a7ae8f6eb5fc3a79,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Lightweight,0,Herb Dean,c2299ec916bc7c56,win,KO/TKO,2
+b6ea8880cc7af439,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Lightweight,0,Mark Smith,193b9d1858bc4df3,win,Decision - Split,3
+355a2f4090c0ca31,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Women's Strawweight,0,Andrew Glenn,e94085e821bd81de,win,Decision - Unanimous,3
+5c783cd188425783,UFC 308: Topuria vs. Holloway,2024-10-26,Featherweight,0,Kerry Hatley,a09ed60aa67a3f67,win,Decision - Unanimous,3
+8b7bc2af1e15b668,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Featherweight,0,Peter Hickmott,6751eacd16bd59bc,win,Submission,2
+83fe4c29c0fc0091,Road to UFC 3.1 + 3.2,2024-05-18,Welterweight,0,Steve Perceval,8f313e9c3a39c06e,win,Decision - Unanimous,3
+1781e8fc223ebf5e,Road to UFC 2.3 + 2.4,2023-05-28,Lightweight,0,Mark Craig,8f313e9c3a39c06e,win,DQ,2
+a3cd6a65aaa9f104,UFC 313: Pereira vs. Ankalaev,2025-03-08,Lightweight,0,Mark Smith,e4a47b07044ddd72,win,Submission,1
+3733d100f7bd5590,UFC 306: Riyadh Season Noche UFC,2024-09-14,Lightweight,0,Marc Goddard,e4a47b07044ddd72,win,KO/TKO,1
+d7022b6058dbb26b,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Catch Weight,0,Andrew Glenn,e4a47b07044ddd72,win,Decision - Unanimous,3
+364ffc75af9353d4,Road To UFC 5.2,2026-05-29,Flyweight,0,Lukasz Bosacki,1d76f07ffdd765c2,win,Submission,1
+ea660db65bfa998f,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Light Heavyweight,0,Marc Goddard,1c23ec2f1b71be40,win,KO/TKO,1
+dff2ef8fdde8c502,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Women's Strawweight,0,Mike Beltran,9c442aaf149ea982,win,Decision - Split,3
+019b4d006800504b,UFC 286: Edwards vs. Usman 3,2023-03-18,Welterweight,0,Rich Mitchell,fd55393021a8c255,win,Submission,1
+88020d22cf905792,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Women's Flyweight,0,Robert Madrigal,9d62c2d8ee151f08,win,Decision - Unanimous,3
+4661e9ca9354021e,UFC 301: Pantoja vs. Erceg,2024-05-04,Women's Flyweight,0,Fernando Portella,27b388f0aab49780,win,Decision - Unanimous,3
+33658a3ca932d15d,UFC 299: O'Malley vs. Vera 2,2024-03-09,Women's Flyweight,0,Andrew Glenn,6a740daf1b279661,win,Decision - Unanimous,3
+d14f98b24691d082,UFC 311: Makhachev vs. Moicano,2025-01-18,Bantamweight,0,Herb Dean,b9f28e7045fdfce7,win,Decision - Unanimous,3
+2417cc7bc1eea75b,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Women's Flyweight,0,Mark Smith,6a740daf1b279661,win,Decision - Unanimous,3
+ef13ed466e0b42d8,UFC 298: Volkanovski vs. Topuria,2024-02-17,Welterweight,0,Jason Herzog,b7c5eb7cdbac6a63,win,KO/TKO,3
+df7928de73fc2fe8,UFC 308: Topuria vs. Holloway,2024-10-26,Heavyweight,0,Jason Herzog,8667caa0451d245b,win,KO/TKO,1
+3fdb4c4b39218cf4,UFC 321: Aspinall vs. Gane,2025-10-25,Heavyweight,0,Marc Goddard,3329d692aea4dc28,win,Decision - Unanimous,3
+7af407397532f7cf,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Lightweight,0,Herb Dean,4d8fa64202cee4c1,win,KO/TKO,1
+bc63f1b2e52f603e,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Lightweight,0,Marc Goddard,7cbf7c78d3b34218,win,Decision - Unanimous,3
+daa6b47be304ec86,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Middleweight,0,Herb Dean,c1085e1701b13eca,win,KO/TKO,1
+6ecfa439ef900bcc,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Middleweight,0,Luc Lefebvre,8e9eb3fc86db0f7d,win,KO/TKO,1
+ba5005d1116fa45f,UFC 297: Strickland vs. Du Plessis,2024-01-20,Middleweight,0,Todd Ronald Anderson,5442f1bc4b47eaf3,win,Decision - Split,3
+5311298f79414125,UFC 289: Nunes vs. Aldana,2023-06-10,Middleweight,0,Jerin Valel,8e9eb3fc86db0f7d,win,Decision - Unanimous,3
+65adf5fa5bf6fbbc,Road To UFC 5.2,2026-05-29,Road to 4 Flyweight Tournament,1,Jason Herzog,e1f8beeb6d2d871a,win,KO/TKO,1
+4b4c1352b9d2a477,Road to UFC 4.1 + 4.2,2025-05-22,Flyweight,0,Thomas Fan,e1f8beeb6d2d871a,win,KO/TKO,2
+4172fe2ebace07e4,Road to UFC 4.5 + 4.6,2025-08-22,Flyweight,0,Herb Dean,e1f8beeb6d2d871a,win,Submission,1
+cd20dac4daa4f93a,UFC 285: Jones vs. Gane,2023-03-04,Bantamweight,0,Keith Peterson,a09ed60aa67a3f67,win,Decision - Unanimous,3
+7c0d0a28a8fba102,UFC 310: Pantoja vs. Asakura,2024-12-07,Welterweight,0,Keith Peterson,f626118b6da0e020,win,Decision - Split,3
+c572daedf2012a49,UFC 329: McGregor vs. Holloway 2,2026-07-11,Bantamweight,0,Herb Dean,bc711b6dd95c1af6,win,Decision - Unanimous,3
+e69f9b4b9cae12a4,UFC 321: Aspinall vs. Gane,2025-10-25,Bantamweight,0,Jason Herzog,2b6fc1c02736833d,win,Decision - Unanimous,3
+3d7d82fff71e395a,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Bantamweight,0,Mike Beltran,bc711b6dd95c1af6,win,Decision - Split,3
+fd4d30036a3f3efb,UFC 292: Sterling vs. O'Malley,2023-08-19,Bantamweight,0,Bryan Miner,bc711b6dd95c1af6,win,Decision - Unanimous,3
+0ca04cc5b49a53ba,Road to UFC 4.3 + 4.4,2025-05-23,Lightweight,0,Mark Craig,fe1595732dfb08fc,win,KO/TKO,2
+4c9bbd9758be1168,UFC 288: Sterling vs. Cejudo,2023-05-06,Welterweight,0,Keith Peterson,2558ae2e5671e318,win,Decision - Split,3
+938081fae11dcbbf,UFC 311: Makhachev vs. Moicano,2025-01-18,Middleweight,0,Blake Grice,3bc3f60b21cddc6a,win,KO/TKO,1
+1676c64a94be0557,UFC 289: Nunes vs. Aldana,2023-06-10,Women's Strawweight,0,Phil Koldyk,d7e40dca3ae125be,win,Decision - Unanimous,3
+de85ef2fd4769070,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Light Heavyweight,0,Marc Goddard,,draw,Decision - Majority,3
+a01c49950ea6de10,Road to UFC 3.5 + 3.6,2024-08-23,Flyweight,0,Kerry Hatley,3be16d817b36098b,win,Decision - Split,3
+2a0b6a5d1c07a4f2,Road to UFC 3.3 + 3.4,2024-05-19,Flyweight,0,Steve Perceval,7b4ae3fd439a05b6,win,KO/TKO,1
+5c962ea13cb9b937,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Featherweight,0,Peter Hickmott,5095b0920a3602aa,win,Decision - Unanimous,3
+7ee8b91d7f80f8a7,UFC 289: Nunes vs. Aldana,2023-06-10,Featherweight,0,Sal Ram,31f8081c7600da93,win,Decision - Unanimous,3
+800a35b3a7e52308,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Light Heavyweight,0,Marc Goddard,e5549c82bfb5582d,win,Decision - Split,3
+909cd8633507a0c8,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Women's Flyweight,0,Blake Grice,669970f7feba8ecd,win,Submission,2
+ec434314c5438fc7,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Heavyweight,1,Marc Goddard,399afbabc02376b5,win,KO/TKO,1
+0133019a4f1055ee,UFC 299: O'Malley vs. Vera 2,2024-03-09,Heavyweight,0,Mike Beltran,fa6796c55d6c5440,win,KO/TKO,2
+ec8b2d89c6c852ce,Road To UFC 5.2,2026-05-29,Flyweight,0,Jason Herzog,81d59c1e07478361,win,KO/TKO,1
+7ed9e8f3258446c7,UFC 283: Teixeira vs. Hill,2023-01-21,Welterweight,0,Herb Dean,01641ba5df0c69b0,win,Submission,1
+89db7aca37b87711,UFC 301: Pantoja vs. Erceg,2024-05-04,Lightweight,0,Mike Beltran,eb393afdbe3293d5,win,Decision - Unanimous,3
+fe0f1b418e6d3ecb,UFC 301: Pantoja vs. Erceg,2024-05-04,Flyweight,0,Joao Claudio Soares,3fa97913cfd205d3,win,KO/TKO,2
+8a0fc4624578a7e4,UFC 295: Prochazka vs. Pereira,2023-11-11,Flyweight,0,Mike Beltran,17e97649403ba428,win,Decision - Unanimous,3
+1a5378e32e8519ef,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Lightweight,0,Keith Peterson,72f890c5d421e705,win,Decision - Unanimous,3
+64641156360b1b81,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Lightweight,0,Marc Goddard,6c3b2525436cf5d4,win,Decision - Unanimous,3
+83a0fff04494bfc4,UFC 295: Prochazka vs. Pereira,2023-11-11,Lightweight,0,Keith Peterson,,draw,Decision - Majority,3
+d564db29997e1371,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Middleweight,0,Herb Dean,4126a78111c0855a,win,Decision - Unanimous,3
+2db0998b24c11ea0,UFC 301: Pantoja vs. Erceg,2024-05-04,Middleweight,0,Marc Goddard,4126a78111c0855a,win,KO/TKO,2
+845b8653f9cf839c,UFC 328: Chimaev vs. Strickland,2026-05-09,Welterweight,0,Keith Peterson,45f7cb591c3ab00b,win,Decision - Unanimous,3
+b98bc1ecb94ef4a5,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Welterweight,0,Mark Smith,3d074044a33825e7,win,Submission,2
+8a121f9c48f3773c,UFC 301: Pantoja vs. Erceg,2024-05-04,Lightweight,0,Fernando Portella,bf2c8e01b07d3eb1,win,Decision - Unanimous,3
+0ac5fc42ba039211,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Lightweight,0,Matt Wynne,48a9a128784d53d1,win,Decision - Split,3
+946cae1beed2baec,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Women's Flyweight,0,Mike Beltran,2997e7fe3c9d3d4a,win,Decision - Unanimous,3
+abf5f4d6f777cf7b,Road to UFC 4.5 + 4.6,2025-08-22,Women's Strawweight,0,Marc Goddard,7138a15258dabf20,win,Decision - Unanimous,3
+c456b1950208e0b2,UFC 301: Pantoja vs. Erceg,2024-05-04,Featherweight,0,Joao Claudio Soares,791c8437b341fba5,win,TKO - Doctor's Stoppage,2
+4f672dd40867d8c6,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Welterweight,0,Marc Goddard,6b453bc35a823c3f,win,Submission,1
+fd2d814a8a23798f,UFC 302: Makhachev vs. Poirier,2024-06-01,Welterweight,0,Gasper Oliver,c6aee362c7a7d482,win,Decision - Unanimous,3
+47362cae6ba0e077,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Middleweight,0,Jim Perdios,8ebc3a8da015d70c,win,KO/TKO,2
+0c2e3988793b418c,UFC 300: Pereira vs. Hill,2024-04-13,Middleweight,0,Chris Tognoni,35673bf5204524ee,win,Submission,2
+182ee320edb1b5ed,UFC 318: Holloway vs. Poirier 3,2025-07-19,Heavyweight,0,Chris Hill,a67f5afa8d6a1b80,win,Submission,1
+c2fc4c1e0c769655,UFC 285: Jones vs. Gane,2023-03-04,Middleweight,0,Herb Dean,0d7b51c9d2649a6e,win,KO/TKO,2
+a5558e8fec59a687,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Heavyweight,0,Marc Goddard,0d5cc0170c1a7e71,win,KO/TKO,1
+eb94412f15c62650,UFC 310: Pantoja vs. Asakura,2024-12-07,Heavyweight,0,Chris Tognoni,8667caa0451d245b,win,KO/TKO,1
+69bca5091b2a31f6,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Welterweight,0,Mike Beltran,b9437600497350f3,win,KO/TKO,3
+3bbc222130d9dac7,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Heavyweight,0,Mark Smith,8eb046f83e82bf26,win,Decision - Split,3
+a571c622ab89b3d9,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Women's Bantamweight,0,Chris Tognoni,9cdd2da1a9104a0b,win,TKO - Doctor's Stoppage,2
+faf15b752fb8924c,UFC 297: Strickland vs. Du Plessis,2024-01-20,Women's Bantamweight,1,Jerin Valel,fc169c387b4b465d,win,Decision - Unanimous,5
+026bb9fd1b3f239d,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Light Heavyweight,0,Marc Goddard,476fe566d2df676e,win,Submission,3
+c812457a810dde39,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Light Heavyweight,0,Dan Miragliotta,476fe566d2df676e,win,Decision - Split,3
+780cab0cd07589e4,UFC 324: Gaethje vs. Pimblett,2026-01-24,Light Heavyweight,0,Marc Goddard,1091d4d957141094,win,KO/TKO,3
+ca2672e68fedf4b7,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Light Heavyweight,0,Steve Perceval,476fe566d2df676e,win,Decision - Unanimous,3
+68f7f992603192c6,UFC 299: O'Malley vs. Vera 2,2024-03-09,Welterweight,0,Dan Miragliotta,6b453bc35a823c3f,win,KO/TKO,3
+fa6c956a4f75d0fe,Road To UFC 5.1,2026-05-28,Featherweight,0,Mark Craig,e415ea6f8d41c917,win,KO/TKO,1
+7367fa634f4db817,Road to UFC 4.3 + 4.4,2025-05-23,Welterweight,0,Marc Goddard,903ef36a6adc09a3,win,KO/TKO,1
+9939d7073462e07e,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Middleweight,0,Marc Goddard,a67d071163962af8,win,Decision - Unanimous,3
+e92d89cb2d69235e,UFC 328: Chimaev vs. Strickland,2026-05-09,Flyweight,0,Giovanna Scano,88be62d6c1e6dadb,win,Decision - Unanimous,3
+e294a1e5723011db,UFC 311: Makhachev vs. Moicano,2025-01-18,Flyweight,0,Blake Grice,f00ac08ab056af5d,win,Decision - Unanimous,3
+8a3e7085e8e5a6e9,UFC 286: Edwards vs. Usman 3,2023-03-18,Women's Flyweight,0,Herb Dean,12f91bfa8f1f723b,win,Decision - Split,3
+57333b7bff20ece0,UFC 295: Prochazka vs. Pereira,2023-11-11,Catch Weight,0,Dan Miragliotta,5fa2974cbd18e05c,win,Decision - Unanimous,3
+1dc29f4c6fcdd356,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Bantamweight,0,Chris Tognoni,6e743a33d56bdaa4,win,Decision - Unanimous,3
+e3aad51099a23ba4,UFC 288: Sterling vs. Cejudo,2023-05-06,Bantamweight,1,Herb Dean,cb696ebfb6598724,win,Decision - Split,5
+9785420602b452f7,UFC 298: Volkanovski vs. Topuria,2024-02-17,Bantamweight,0,Jonathan Romero,c03520b5c88ed6b4,win,Decision - Unanimous,3
+781a2ea50f5ae68f,UFC 308: Topuria vs. Holloway,2024-10-26,Light Heavyweight,0,Marc Goddard,6e8f1bcdda94ff45,win,KO/TKO,1
+d3a9aceeb7e23580,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Catch Weight,0,Herb Dean,4461d7e47375a895,win,Decision - Unanimous,3
+dae8ad2e03aa4a9a,UFC 306: Riyadh Season Noche UFC,2024-09-14,Flyweight,0,Mark Smith,17e97649403ba428,win,Decision - Unanimous,3
+c037bb8d796de3bd,Road To UFC 5.1,2026-05-28,Featherweight,0,Marc Goddard,70186298465de3f3,win,Decision - Split,3
+d05cb4c4135ce402,UFC 314: Volkanovski vs. Lopes,2025-04-12,Lightweight,0,Kerry Hatley,7826923b47f8d72a,win,KO/TKO,3
+4f4189009a190e35,UFC 309: Jones vs. Miocic,2024-11-16,Lightweight,0,Keith Peterson,07225ba28ae309b6,win,Decision - Unanimous,5
+f23e9729b2b73c27,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Middleweight,0,Jason Herzog,767755fd74662dbf,win,Decision - Majority,3
+b8bf186f884678ea,UFC 308: Topuria vs. Holloway,2024-10-26,Middleweight,0,Jason Herzog,767755fd74662dbf,win,Submission,1
+8353b491afa7bc32,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Women's Bantamweight,0,Chris Tognoni,3143bf892608139a,win,Decision - Unanimous,3
+12cedec11b37ddc0,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Middleweight,1,Marc Goddard,767755fd74662dbf,win,Decision - Unanimous,5
+8a2e28da18ba6a25,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Featherweight,0,Marc Goddard,040a74bb0a465c54,win,Decision - Unanimous,3
+70f1621080b3435c,UFC 328: Chimaev vs. Strickland,2026-05-09,Middleweight,1,Herb Dean,0d8011111be000b2,win,Decision - Split,5
+089388c9f00ce9c6,UFC 310: Pantoja vs. Asakura,2024-12-07,Featherweight,0,Chris Tognoni,e93b04e308913c2e,win,KO/TKO,3
+760d7564c0c561db,Road to UFC 2.1 + 2.2,2023-05-27,Flyweight,0,Thomas Fan,adccbc19b22e19af,win,Decision - Unanimous,3
+5470282e2c7a1351,Road to UFC 2.5 + 2.6,2023-08-27,Flyweight,0,Kevin Sataki,2f43a3e82661fa99,win,Decision - Unanimous,3
+5cd3241cbe555903,Road to UFC 2.1 + 2.2,2023-05-27,Flyweight,0,Marc Goddard,60098849c703e389,win,Decision - Unanimous,3
+c3ca708aaf4262a7,UFC 288: Sterling vs. Cejudo,2023-05-06,Light Heavyweight,0,Gasper Oliver,8667caa0451d245b,win,Submission,2
+0e71e69359db4d1e,UFC 314: Volkanovski vs. Lopes,2025-04-12,Women's Bantamweight,0,Kerry Hatley,f2b3f4ef3f780168,win,Submission,2
+e84c3f1f9a33fa90,UFC 329: McGregor vs. Holloway 2,2026-07-11,Women's Flyweight,0,Jason Herzog,2997e7fe3c9d3d4a,win,Decision - Unanimous,3
+d93ee3860196c4ae,UFC 324: Gaethje vs. Pimblett,2026-01-24,Heavyweight,0,Jason Herzog,fc08099550072fe4,win,KO/TKO,2
+22ba4f1b0aafbf82,UFC 328: Chimaev vs. Strickland,2026-05-09,Heavyweight,0,Mike Beltran,279566840aa55bf2,win,Decision - Unanimous,3
+815ff62ca8e217be,UFC 317: Topuria vs. Oliveira,2025-06-28,Women's Flyweight,0,Jason Herzog,68d4a891e5cf2029,win,Decision - Unanimous,3
+ac977a0389682124,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Heavyweight,0,Mike Beltran,fc08099550072fe4,win,Decision - Unanimous,3
+01432891260084a4,UFC 298: Volkanovski vs. Topuria,2024-02-17,Middleweight,0,Mike Beltran,e1147d3d2dabe1ce,win,Decision - Unanimous,3
+23c963be9de38205,UFC 318: Holloway vs. Poirier 3,2025-07-19,Middleweight,0,Herb Dean,2e5c2aa8e4ab9d82,win,Decision - Unanimous,3
+9e7538a788e6d789,UFC 302: Makhachev vs. Poirier,2024-06-01,Middleweight,0,Jason Herzog,0d8011111be000b2,win,Decision - Split,5
+1b6a3b0d27654d3e,UFC 329: McGregor vs. Holloway 2,2026-07-11,Flyweight,0,Jason Herzog,3fa97913cfd205d3,win,Submission,2
+cfd3e62c638fbd1f,UFC 309: Jones vs. Miocic,2024-11-16,Middleweight,0,Dan Miragliotta,35673bf5204524ee,win,Decision - Unanimous,3
+2d1ac675e6c1e6ea,UFC 283: Teixeira vs. Hill,2023-01-21,Light Heavyweight,0,Herb Dean,c21f26bbde777573,win,KO/TKO,1
+3183dfe66fcdd25f,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Welterweight,0,Lukasz Bosacki,8b6e5dc2ba1edbe7,win,Submission,1
+43ebfc8914a39061,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Featherweight,0,Matt Wynne,1ae8f3c723aacff4,win,Decision - Split,3
+798652dbea086910,UFC 318: Holloway vs. Poirier 3,2025-07-19,Light Heavyweight,0,Dan Miragliotta,70e1f8a821b72c8b,win,Submission,1
+96eaf07b34538b8b,UFC 289: Nunes vs. Aldana,2023-06-10,Middleweight,0,Jason Herzog,,no_contest,Could Not Continue,2
+acc961fd5cf5c62e,UFC 318: Holloway vs. Poirier 3,2025-07-19,Featherweight,0,Dan Miragliotta,98a58c26c5b1ed17,win,Decision - Unanimous,3
+fc43d60cbd6b0e6a,UFC 314: Volkanovski vs. Lopes,2025-04-12,Featherweight,0,Andrew Glenn,82a5152216251682,win,KO/TKO,3
+7bc7af11050e861b,UFC 299: O'Malley vs. Vera 2,2024-03-09,Light Heavyweight,0,Mike Beltran,53c943c873cffe90,win,Decision - Unanimous,3
+fc8ad0c7fc70dde7,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Catch Weight,0,Jason Herzog,f166e93d04a8c274,win,Decision - Unanimous,3
+46c67efd68a0b15d,UFC 289: Nunes vs. Aldana,2023-06-10,Featherweight,0,Jason Herzog,82a5152216251682,win,Decision - Unanimous,3
+642f3bcd0f821e40,Road to UFC 4.3 + 4.4,2025-05-23,Bantamweight,0,Thomas Fan,fd08d6536b7b91f0,win,KO/TKO,2
+33d715a29a00bb81,Road to UFC 4.3 + 4.4,2025-05-23,Bantamweight,0,Thomas Fan,79e2cb1e813f881b,win,Decision - Unanimous,3
+40fa4f8b4b93884e,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Featherweight,0,Mark Smith,480779d7f9a424d3,win,KO/TKO,3
+e92fb5c609e20b49,UFC 298: Volkanovski vs. Topuria,2024-02-17,Bantamweight,0,Jonathan Romero,d8c811df0386d5e8,win,Decision - Unanimous,3
+b84c447bb74febe2,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Featherweight,0,Lukasz Bosacki,8d11d9c13e2ccdf7,win,Decision - Unanimous,3
+04b445edf2165d4f,Road to UFC 3.3 + 3.4,2024-05-19,Bantamweight,0,Mark Craig,eb9446a4f44e19cf,win,Decision - Unanimous,3
+28648815e5f46bd9,Road to UFC 4.5 + 4.6,2025-08-22,Featherweight,0,Vitor Ribeiro,3618e0632ecdba9c,win,Decision - Unanimous,3
+780bae82bdfc7112,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Road to 4 Featherweight Tournament,1,Herb Dean,3618e0632ecdba9c,win,KO/TKO,3
+83a40598ab4d85d7,Road to UFC 4.1 + 4.2,2025-05-22,Featherweight,0,Marc Goddard,3618e0632ecdba9c,win,KO/TKO,2
+d63c9aa4f4873001,UFC 324: Gaethje vs. Pimblett,2026-01-24,Women's Flyweight,0,Jason Herzog,262d32ebda89efc4,win,Decision - Unanimous,3
+bde635a4f345bc3e,UFC 308: Topuria vs. Holloway,2024-10-26,Middleweight,0,Mark Smith,6a96ad1bc34fb113,win,Decision - Unanimous,3
+42585ce706c086de,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Welterweight,0,Jason Herzog,7ee0fd831c0fe7c3,win,KO/TKO,1
+1d65c141776949d6,UFC 308: Topuria vs. Holloway,2024-10-26,Welterweight,0,Mark Smith,b997be68943010fc,win,KO/TKO,1
+22fc6b3f4e48cfa3,UFC 285: Jones vs. Gane,2023-03-04,Welterweight,0,Herb Dean,01afe0916a40c7c5,win,Submission,3
+292b83afa418635f,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Middleweight,0,Dan Miragliotta,35673bf5204524ee,win,KO/TKO,3
+1ffe6e8df6dbefd2,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Middleweight,0,Chris Tognoni,35673bf5204524ee,win,KO/TKO,1
+2b9daf452ab40b9b,UFC 285: Jones vs. Gane,2023-03-04,Middleweight,0,Keith Peterson,35673bf5204524ee,win,Submission,1
+075a102456080ab2,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Flyweight,0,Steve Perceval,c051c2e12d692b8a,win,Submission,1
+970f42a0d5911f36,Road to UFC 4.5 + 4.6,2025-08-22,Bantamweight,0,Jim Perdios,a1ad35b98a9136e5,win,KO/TKO,2
+5efd13a12be06706,UFC 319: Du Plessis vs. Chimaev,2025-08-16,Middleweight,0,Jason Herzog,d1feea7a4bdcd503,win,Submission,2
+ce75f5ecbc0d3dfd,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Lightweight,0,Rich Mitchell,6c3b2525436cf5d4,win,Decision - Unanimous,3
+69bc7ca8ce831731,UFC 289: Nunes vs. Aldana,2023-06-10,Women's Bantamweight,1,Dan Miragliotta,80fa8218c99f9c58,win,Decision - Unanimous,5
+a52ec7298ba5e2c5,Road to UFC 3.3 + 3.4,2024-05-19,Bantamweight,0,Thomas Fan,a474aade8eb3a8f0,win,Decision - Unanimous,3
+ba7471b63f125a68,Road to UFC 2.3 + 2.4,2023-05-28,Bantamweight,0,Mark Craig,86bace9e4ad85542,win,Decision - Split,3
+cc03e698c4b7da52,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Light Heavyweight,0,Herb Dean,709fadb644ee3f51,win,Decision - Unanimous,3
+f39941b3743bf18c,UFC 311: Makhachev vs. Moicano,2025-01-18,Bantamweight,1,Jason Herzog,c03520b5c88ed6b4,win,Decision - Unanimous,5
+4459fbc0eb23fe8a,Road to UFC 2.1 + 2.2,2023-05-27,Featherweight,0,Marc Goddard,0565706b1e7f7e7c,win,KO/TKO,1
+2bfa5eb06a8a463f,Road to UFC 4.1 + 4.2,2025-05-22,Featherweight,0,Marc Goddard,0565706b1e7f7e7c,win,KO/TKO,2
+3610564037fe69b1,Road to UFC 2.7,2024-02-03,Road To 2 Featherweight Tournament,1,Kerry Hatley,3f11fd1751fa83b1,win,Submission,1
+580a22e2b02bc6b1,Road to UFC 2.5 + 2.6,2023-08-27,Featherweight,0,Kevin Sataki,0565706b1e7f7e7c,win,Decision - Unanimous,3
+ad146a4885643b9a,Road to UFC 4.3 + 4.4,2025-05-23,Lightweight,0,Marc Goddard,a264d4e9a4d6bfe4,win,KO/TKO,2
+f4e6acbf40d29aa7,Road to UFC 2.5 + 2.6,2023-08-27,Bantamweight,0,Marc Goddard,86bace9e4ad85542,win,Decision - Majority,3
+930317fde9dbc55e,UFC 329: McGregor vs. Holloway 2,2026-07-11,Featherweight,0,Kerry Hatley,b1de86d835638319,win,KO/TKO,1
+d26583e8495947f3,Road to UFC 2.1 + 2.2,2023-05-27,Featherweight,0,Mark Craig,b42d3a1469dab722,win,Decision - Unanimous,3
+222bb2c67a87d312,UFC 293: Adesanya vs. Strickland,2023-09-09,Flyweight,0,Greg Kleynjans,5d1b7e3dd9e11074,win,Decision - Unanimous,3
+8308464729ea7c40,UFC 317: Topuria vs. Oliveira,2025-06-28,Flyweight,1,Herb Dean,a0f0004aadf10b71,win,Submission,3
+a3ab1979192b647c,UFC 329: McGregor vs. Holloway 2,2026-07-11,Flyweight,0,Jason Herzog,6e15f63b6c2e2c15,win,Submission,3
+c20bd12ae7f04eff,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Bantamweight,0,Jason Herzog,a4dc0f2b95df4cc1,win,KO/TKO,1
+d95f21817a56eb05,UFC 300: Pereira vs. Hill,2024-04-13,Featherweight,0,Jason Herzog,cb696ebfb6598724,win,Decision - Unanimous,3
+670e4754d8d3d172,UFC 297: Strickland vs. Du Plessis,2024-01-20,Bantamweight,0,Kevin MacDonald,1effd880e1f1bb30,win,Decision - Unanimous,3
+824e02d6d56bf7c7,Road to UFC 3.5 + 3.6,2024-08-23,Featherweight,0,Herb Dean,e415ea6f8d41c917,win,KO/TKO,1
+85c57b760a8efac1,Road to UFC 3.1 + 3.2,2024-05-18,Featherweight,0,Mark Craig,49f4171f14f54220,win,Decision - Unanimous,3
+22a91fb1d8077c90,Road to UFC 3.3 + 3.4,2024-05-19,Lightweight,0,Steve Perceval,aaeb55084b198a39,win,KO/TKO,2
+db9dc90572012628,Road to UFC 4.1 + 4.2,2025-05-22,Lightweight,0,Thomas Fan,4bbd1e5c77ef3c2f,win,Decision - Unanimous,3
+627d61eb9e11071d,Road to UFC 2.1 + 2.2,2023-05-27,Welterweight,0,Thomas Fan,7498b3ac79a3b948,win,KO/TKO,2
+07c3c0b48449c89b,Road to UFC 2.5 + 2.6,2023-08-27,Lightweight,0,Thomas Fan,a13d755965a4ec9f,win,Decision - Unanimous,3
+4b5afef9b457fb2f,Road to UFC 4.5 + 4.6,2025-08-22,Lightweight,0,Marc Goddard,a264d4e9a4d6bfe4,win,Submission,2
+7f0896f35d3ac151,Road to UFC 2.1 + 2.2,2023-05-27,Featherweight,0,Mark Craig,e9712cad24948ce1,win,KO/TKO,2
+7d23915c459473bc,Road to UFC 2.5 + 2.6,2023-08-27,Featherweight,0,Marc Goddard,3f11fd1751fa83b1,win,Decision - Unanimous,3
+5b71958ee063a6e8,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Lightweight,0,Chris Tognoni,323d4ca260dfa0ba,win,Decision - Unanimous,3
+518a3cf8f8ed8b16,Road to UFC 2.1 + 2.2,2023-05-27,Flyweight,0,Marc Goddard,17cb6d8e8187f304,win,Decision - Split,3
+e9c034cec33b3479,UFC 321: Aspinall vs. Gane,2025-10-25,Lightweight,0,Marc Goddard,5b86d491d63890c5,win,Decision - Majority,3
+2faf5b8d708f8e94,UFC 301: Pantoja vs. Erceg,2024-05-04,Lightweight,0,Marc Goddard,7cbf7c78d3b34218,win,Decision - Unanimous,3
+ee24be90a01f552e,UFC 302: Makhachev vs. Poirier,2024-06-01,Middleweight,0,Herb Dean,9d83f6da776ff7d6,win,Decision - Split,3
+ebb012c5f3fd0cbb,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Middleweight,0,Marc Goddard,d1c65d2cf2925ddd,win,Decision - Unanimous,3
+9d35723a53749931,UFC 328: Chimaev vs. Strickland,2026-05-09,Middleweight,0,Gasper Oliver,9d83f6da776ff7d6,win,Decision - Unanimous,3
+5116f9398bfca446,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Middleweight,0,Marc Goddard,9d83f6da776ff7d6,win,KO/TKO,2
+c84a29f426f1aab7,UFC 301: Pantoja vs. Erceg,2024-05-04,Women's Strawweight,0,Osiris Maia,abcf2cc6efc42031,win,Decision - Unanimous,3
+b2d731415bd367df,UFC 314: Volkanovski vs. Lopes,2025-04-12,Light Heavyweight,0,Marc Goddard,2e19380f34871c6a,win,KO/TKO,1
+7765e5e779dd7dc9,UFC 329: McGregor vs. Holloway 2,2026-07-11,Light Heavyweight,0,Chris Tognoni,e1147d3d2dabe1ce,win,KO/TKO,3
+827d2a33908ef233,Road to UFC 3.3 + 3.4,2024-05-19,Women's Flyweight,0,Thomas Fan,5c9c2e247c836b67,win,Decision - Split,3
+354dc211166a3982,UFC 283: Teixeira vs. Hill,2023-01-21,Bantamweight,0,Marc Goddard,bf7ad5628363eec9,win,Decision - Unanimous,3
+a10e2d5416972b9c,UFC 297: Strickland vs. Du Plessis,2024-01-20,Welterweight,0,Brian Beauchamp,8b6e5dc2ba1edbe7,win,Submission,1
+60949f33201415ca,UFC 327: Prochazka vs. Ulberg,2026-04-11,Featherweight,0,Herb Dean,d247691a6c0e9034,win,KO/TKO,1
+f9d2137f380e66bf,UFC 293: Adesanya vs. Strickland,2023-09-09,Heavyweight,0,Jim Perdios,e13abac8089a801a,win,KO/TKO,1
+47b7753e289e52bf,Road To UFC 5.2,2026-05-29,Flyweight,0,Vitor Ribeiro,62a72adeb0227603,win,Decision - Split,3
+20d8f6b4b7c8bae7,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Welterweight,0,Marc Goddard,f2925e6db404bf1d,win,KO/TKO,1
+d3727d2e77649508,Road to UFC 2.5 + 2.6,2023-08-27,Bantamweight,0,Kevin Sataki,117a06469813e4ef,win,KO/TKO,3
+bc7fbff31a52621a,Road to UFC 2.3 + 2.4,2023-05-28,Bantamweight,0,Marc Goddard,117a06469813e4ef,win,KO/TKO,1
+0e0a4282cd6c86d7,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Featherweight,0,Marc Goddard,b67d6bacc68d4c92,win,Decision - Unanimous,3
+8c7b5b21b3532027,UFC 292: Sterling vs. O'Malley,2023-08-19,Women's Flyweight,0,Kevin MacDonald,262d32ebda89efc4,win,Decision - Unanimous,3
+2aeb3ec2d8c05dc8,UFC 298: Volkanovski vs. Topuria,2024-02-17,Women's Strawweight,0,Mike Beltran,3df5493bb279226f,win,Decision - Unanimous,3
+79f1c9f97d83ec83,UFC 313: Pereira vs. Ankalaev,2025-03-08,Women's Strawweight,0,Keith Peterson,3df5493bb279226f,win,Decision - Unanimous,3
+845e38dfbfea6e53,UFC 292: Sterling vs. O'Malley,2023-08-19,Women's Strawweight,1,Kevin MacDonald,1ebe20ebbfa15e29,win,Decision - Unanimous,5
+eff6ec2b2f1fb27b,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Heavyweight,0,Dan Miragliotta,d3df1add9d9a7efb,win,KO/TKO,1
+3c319d4659e6c8fd,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Welterweight,0,Matt Wynne,7ee0fd831c0fe7c3,win,KO/TKO,2
+6487ae1d68fc511b,Road To UFC 5.1,2026-05-28,Featherweight,0,Jason Herzog,ff584c17bccbae0b,win,Decision - Unanimous,3
+f1d3eec12662d8d7,UFC 302: Makhachev vs. Poirier,2024-06-01,Flyweight,0,Herb Dean,b1f21ce050035d58,win,Decision - Split,3
+f6a3c78f15ff26c7,UFC 317: Topuria vs. Oliveira,2025-06-28,Bantamweight,0,Chris Tognoni,6e743a33d56bdaa4,win,Decision - Unanimous,3
+55eebc2ee92bf00a,UFC 309: Jones vs. Miocic,2024-11-16,Catch Weight,0,Kevin MacDonald,9c393e836a852f30,win,Decision - Unanimous,3
+51a12878b151d67b,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Women's Strawweight,0,Steve Perceval,4e30e4250cb08b61,win,Submission,2
+b06b43670238c2d8,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Featherweight,1,Marc Goddard,e1248941344b3288,win,Decision - Unanimous,5
+2335e75ce63805b6,UFC 306: Riyadh Season Noche UFC,2024-09-14,Featherweight,0,Marc Goddard,f166e93d04a8c274,win,Decision - Unanimous,3
+e733f148060bef2a,UFC 314: Volkanovski vs. Lopes,2025-04-12,Featherweight,1,Marc Goddard,e1248941344b3288,win,Decision - Unanimous,5
+538ca98010ed00ec,UFC 300: Pereira vs. Hill,2024-04-13,Featherweight,0,Mark Smith,f166e93d04a8c274,win,KO/TKO,1
+128ab9aa4802c73f,UFC 295: Prochazka vs. Pereira,2023-11-11,Featherweight,0,Keith Peterson,f166e93d04a8c274,win,KO/TKO,1
+eb73b63bbd7b88a7,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Women's Strawweight,0,Marc Goddard,abcf2cc6efc42031,win,Decision - Split,3
+294bc24d593e1303,Road to UFC 4.3 + 4.4,2025-05-23,Bantamweight,0,Marc Goddard,a1ad35b98a9136e5,win,Decision - Unanimous,3
+5c73e0013b859664,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Road to 4 Bantamweight Tournament,1,Jim Perdios,a1ad35b98a9136e5,win,Decision - Split,3
+b6e48269344015f0,Road to UFC 3.1 + 3.2,2024-05-18,Women's Flyweight,0,Thomas Fan,2997e7fe3c9d3d4a,win,Submission,1
+d078e9046aa86307,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Women's Flyweight,0,Gasper Oliver,2997e7fe3c9d3d4a,win,Decision - Unanimous,3
+6d8f0d6bdca29ced,Road to UFC 4.3 + 4.4,2025-05-23,Lightweight,0,Loic Pora,b2d9758cdd124143,win,Submission,1
+c442899c21d58779,UFC 296: Edwards vs. Covington,2023-12-16,Women's Flyweight,0,Mark Smith,6551c64fbcd1a467,win,Submission,2
+eb3f56264d0755ae,Road to UFC 2.3 + 2.4,2023-05-28,Flyweight,0,Thomas Fan,5f119b24c0f9679c,win,KO/TKO,1
+ceabe70188a702fc,Road to UFC 4.3 + 4.4,2025-05-23,Bantamweight,0,Mark Craig,1dd1a3aacde66f72,win,KO/TKO,1
+ae8cd939252e58f4,Road to UFC 2.5 + 2.6,2023-08-27,Flyweight,0,Thomas Fan,17cb6d8e8187f304,win,Submission,1
+f09c3d8a26806761,UFC 283: Teixeira vs. Hill,2023-01-21,Welterweight,0,Herb Dean,9d19d9e4aa2662e8,win,Decision - Split,3
+9b5f190cd3f5ce16,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Lightweight,0,Herb Dean,c2299ec916bc7c56,win,KO/TKO,1
+40e8bf8ce508c436,UFC 289: Nunes vs. Aldana,2023-06-10,Lightweight,0,Jason Herzog,07225ba28ae309b6,win,KO/TKO,1
+ffcb47e17eebe6a6,UFC 328: Chimaev vs. Strickland,2026-05-09,Lightweight,0,Mike Beltran,99bd51917728c25d,win,Submission,3
+cf306c4714530f31,UFC 302: Makhachev vs. Poirier,2024-06-01,Lightweight,0,Jason Herzog,99bd51917728c25d,win,Decision - Unanimous,3
+c797b58d85c840a4,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Lightweight,0,Herb Dean,2e7878927067fdca,win,KO/TKO,1
+bd7394f07247d9ca,UFC 321: Aspinall vs. Gane,2025-10-25,Featherweight,0,Jason Herzog,329e403448756217,win,Decision - Unanimous,3
+2f523b757f7f33a2,UFC 317: Topuria vs. Oliveira,2025-06-28,Featherweight,0,Marc Goddard,7d6ceff6747f2de2,win,KO/TKO,1
+6fd67582d8adb1c7,UFC 295: Prochazka vs. Pereira,2023-11-11,Women's Strawweight,0,Keith Peterson,6a1901c62ab3870f,win,KO/TKO,2
+ecbf3ab18f21c519,Road To UFC 5.1,2026-05-28,Bantamweight,0,Mark Craig,9f8bd85aaeec2f56,win,KO/TKO,2
+cbdf29f36b343f6f,UFC 299: O'Malley vs. Vera 2,2024-03-09,Heavyweight,0,Andrew Glenn,140567899d98978a,win,KO/TKO,1
+56809feb4fe7ea61,UFC 293: Adesanya vs. Strickland,2023-09-09,Welterweight,0,Herb Dean,feedf3053472fe56,win,Decision - Unanimous,3
+96c2f85b46e98e91,UFC 313: Pereira vs. Ankalaev,2025-03-08,Middleweight,0,Marc Goddard,6967153c7edb4d87,win,Decision - Unanimous,3
+6c1faa6284428e5d,UFC 309: Jones vs. Miocic,2024-11-16,Heavyweight,0,Herb Dean,c9cf753cfdf77fc2,win,TKO - Doctor's Stoppage,2
+ce7671f240552705,Road To UFC 5.2,2026-05-29,Women's Strawweight,0,Mark Craig,504d3a11e4408253,win,Decision - Split,3
+bf878c083a6b30ad,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Light Heavyweight,0,Marc Goddard,327d5f279895110d,win,Decision - Unanimous,3
+5e9c027fb24efc2b,UFC 286: Edwards vs. Usman 3,2023-03-18,Middleweight,0,Marc Goddard,7acbb0972e75281a,win,Decision - Unanimous,3
+de8d02b01f18e85e,Road to UFC 3.1 + 3.2,2024-05-18,Women's Strawweight,0,Steve Perceval,bad82b681819b272,win,Decision - Unanimous,3
+c4351f1f0b46bf4a,Road to UFC 3.5 + 3.6,2024-08-23,Women's Strawweight,0,Mark Smith,d683f4870742b273,win,Decision - Split,3
+d13849f49f99bf01,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Middleweight,1,Marc Goddard,0d7b51c9d2649a6e,win,Decision - Unanimous,5
+6c44af21414e4143,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Middleweight,1,Marc Goddard,0d7b51c9d2649a6e,win,Submission,4
+14e53999507c76a7,UFC 297: Strickland vs. Du Plessis,2024-01-20,Middleweight,1,Marc Goddard,0d7b51c9d2649a6e,win,Decision - Split,5
+4ec5d9bd1442e6c1,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Middleweight,0,Marc Goddard,0d7b51c9d2649a6e,win,KO/TKO,2
+f02fed4e98048471,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Middleweight,0,Daniel Movahedi,d1c65d2cf2925ddd,win,Decision - Unanimous,3
+4bbda6c1f6cf9d4e,UFC 314: Volkanovski vs. Lopes,2025-04-12,Middleweight,0,Marc Goddard,0d65c432720accb9,win,KO/TKO,1
+43de9ff6064361e1,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Middleweight,0,Jason Herzog,4e6738062d469256,win,Decision - Unanimous,3
+38094db8e3539cba,UFC 286: Edwards vs. Usman 3,2023-03-18,Middleweight,0,Lukasz Bosacki,a93f94c923c3a9cb,win,KO/TKO,1
+2397e2a92710705a,UFC 306: Riyadh Season Noche UFC,2024-09-14,Women's Bantamweight,0,Herb Dean,d3f5d33d61cd00c9,win,Decision - Unanimous,3
+f661ef429055f8c1,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Flyweight,0,Jason Herzog,17cb6d8e8187f304,win,Decision - Unanimous,3
+d38029cf47e54cf7,UFC 310: Pantoja vs. Asakura,2024-12-07,Flyweight,0,Chris Tognoni,17e97649403ba428,win,Decision - Unanimous,3
+4ec249e549309b16,UFC 296: Edwards vs. Covington,2023-12-16,Flyweight,0,Chris Tognoni,f00ac08ab056af5d,win,Submission,2
+e61d83e4e1f9c4d7,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Bantamweight,1,Jason Herzog,c03520b5c88ed6b4,win,Submission,3
+964ea1777695851b,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Middleweight,0,Mark Smith,841695e02c99a521,win,Submission,1
+4a0db214d9721d6e,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Bantamweight,1,Marc Goddard,d661ce4da776fc20,win,Decision - Unanimous,5
+3146e5a47a922976,UFC 306: Riyadh Season Noche UFC,2024-09-14,Bantamweight,1,Herb Dean,c03520b5c88ed6b4,win,Decision - Unanimous,5
+a8511df8285f5c91,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Bantamweight,1,Marc Goddard,c03520b5c88ed6b4,win,Decision - Unanimous,5
+fe143cb868adfded,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Middleweight,1,Dan Miragliotta,1338e2c7480bdf9e,win,KO/TKO,2
+fffdc57255274be1,UFC 283: Teixeira vs. Hill,2023-01-21,Heavyweight,0,Fernando Portella,41e83a89929d1327,win,KO/TKO,2
+7f16e7725245bb2d,UFC 293: Adesanya vs. Strickland,2023-09-09,Middleweight,1,Marc Goddard,0d8011111be000b2,win,Decision - Unanimous,5
+420f7e6530dbc727,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Flyweight,0,Jason Herzog,c051c2e12d692b8a,win,KO/TKO,1
+a22fd3735819d858,UFC 326: Holloway vs. Oliveira 2,2026-03-07,Flyweight,0,Chris Tognoni,3cf18e01cb6cbde3,win,Decision - Unanimous,3
+e4d2bce5c9700584,Road to UFC 4.1 + 4.2,2025-05-22,Flyweight,0,Mark Craig,b2efa582adf73604,win,KO/TKO,1
+609d994bfe440ec3,UFC 296: Edwards vs. Covington,2023-12-16,Women's Bantamweight,0,Jason Herzog,578ef12674df1e6a,win,Decision - Unanimous,3
+891b2faf1bff38ee,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Featherweight,0,Dan Miragliotta,24656ef4d605c96f,win,Decision - Unanimous,3
+0230a9dd2739add4,UFC 321: Aspinall vs. Gane,2025-10-25,Middleweight,0,Rich Mitchell,b07aed698fba8624,win,Decision - Unanimous,3
+7024385b5107bd4b,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Middleweight,0,Lukasz Bosacki,b07aed698fba8624,win,KO/TKO,1
+3d3dde60e3d59c1c,UFC 299: O'Malley vs. Vera 2,2024-03-09,Flyweight,0,Keith Peterson,8d3273573b85be09,win,Decision - Unanimous,3
+836a188a90e479a5,UFC 324: Gaethje vs. Pimblett,2026-01-24,Featherweight,0,Chris Tognoni,52ef95b5860fb28c,win,Decision - Unanimous,3
+8e1feda9141602f1,UFC 318: Holloway vs. Poirier 3,2025-07-19,Middleweight,0,Bassel Mahgoub,2f181c0467965b98,win,Decision - Unanimous,3
+c0af8cf5befb2dcf,UFC 302: Makhachev vs. Poirier,2024-06-01,Heavyweight,0,Vitor Ribeiro,41e83a89929d1327,win,Submission,1
+54d48b33e7240452,UFC 311: Makhachev vs. Moicano,2025-01-18,Heavyweight,0,Jason Herzog,41e83a89929d1327,win,KO/TKO,1
+b42a3386a7dccb3d,UFC 321: Aspinall vs. Gane,2025-10-25,Heavyweight,0,Marc Goddard,279566840aa55bf2,win,Decision - Split,3
+b223b10ef19f912c,UFC 329: McGregor vs. Holloway 2,2026-07-11,Middleweight,0,Chris Tognoni,fdd22e895a70e4a8,win,KO/TKO,1
+ed5b6681ab4e83e5,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Middleweight,0,Dave Seljestad,64d47ef881a437a4,win,Decision - Unanimous,3
+f88dc6e0c29cff1d,UFC 328: Chimaev vs. Strickland,2026-05-09,Welterweight,0,Keith Peterson,f139d6836efd43dd,win,Submission,2
+0f16d83859d608c7,UFC 310: Pantoja vs. Asakura,2024-12-07,Catch Weight,0,Mark Smith,cad24459b28592ca,win,KO/TKO,2
+13f5be7a2ea5577e,UFC 286: Edwards vs. Usman 3,2023-03-18,Featherweight,0,Rich Mitchell,b8a85389d115e35a,win,Submission,2
+2082fa9ed4a9c609,Road to UFC 3.1 + 3.2,2024-05-18,Featherweight,0,Mark Craig,6f4ec5aa3eced219,win,Decision - Unanimous,3
+603afedc31d95999,UFC 300: Pereira vs. Hill,2024-04-13,Women's Strawweight,0,Chris Tognoni,6a1901c62ab3870f,win,Decision - Split,3
+11a5a852313d1f5b,UFC 288: Sterling vs. Cejudo,2023-05-06,Women's Strawweight,0,Vitor Ribeiro,c41d426cc7326d1b,win,KO/TKO,1
+0de1ef0b9f3a79c0,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Light Heavyweight,1,Herb Dean,e5549c82bfb5582d,win,KO/TKO,1
+9e05fe95a4fc63bc,UFC 313: Pereira vs. Ankalaev,2025-03-08,Light Heavyweight,1,Marc Goddard,d802174b0c0c1f4e,win,Decision - Unanimous,5
+821960adf5bfa15c,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Light Heavyweight,0,Daniel Movahedi,,no_contest,Could Not Continue,1
+b09f54654b0f95f5,UFC 308: Topuria vs. Holloway,2024-10-26,Light Heavyweight,0,Vitor Ribeiro,d802174b0c0c1f4e,win,Decision - Unanimous,3
+b5d14ebf0d26e06a,Road to UFC 4.1 + 4.2,2025-05-22,Featherweight,0,Luic Pora,29ab96eae72bad9f,win,Decision - Split,3
+5f5a12c724d2625b,Road To UFC 5.1,2026-05-28,Featherweight,0,Jason Herzog,0efb0d4ebb950fcb,win,Submission,2
+e24b65cd8721349a,UFC 289: Nunes vs. Aldana,2023-06-10,Bantamweight,0,John Cooper,24656ef4d605c96f,win,KO/TKO,1
+3cdc6fea724be133,UFC 306: Riyadh Season Noche UFC,2024-09-14,Bantamweight,0,Chris Tognoni,fe2babf95de24fb1,win,Decision - Unanimous,3
+8545a2495db16538,UFC 309: Jones vs. Miocic,2024-11-16,Women's Flyweight,0,Marc Goddard,36541f1e6c5d4955,win,Decision - Unanimous,3
+009feda296ae589c,UFC 285: Jones vs. Gane,2023-03-04,Women's Flyweight,0,Keith Peterson,beecb672a279223e,win,Decision - Unanimous,3
+e761c5009c09b295,UFC 310: Pantoja vs. Asakura,2024-12-07,Flyweight,1,Jason Herzog,a0f0004aadf10b71,win,Submission,2
+2e4064e0e6d4d92e,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Lightweight,0,Gasper Oliver,17734443a833cdf7,win,Decision - Unanimous,3
+9f8cf5ac0807d64e,UFC 286: Edwards vs. Usman 3,2023-03-18,Lightweight,0,Marc Goddard,c739c2995a275314,win,KO/TKO,1
+db49619221b282af,UFC 295: Prochazka vs. Pereira,2023-11-11,Heavyweight,1,Dan Miragliotta,399afbabc02376b5,win,KO/TKO,1
+007e8e0d4a39d82c,UFC 324: Gaethje vs. Pimblett,2026-01-24,Bantamweight,0,Herb Dean,b50a426a33da0012,win,Decision - Unanimous,3
+ee796ecb4ee8680b,UFC 292: Sterling vs. O'Malley,2023-08-19,Bantamweight,1,Marc Goddard,b50a426a33da0012,win,KO/TKO,2
+894c44c3d04aaf6f,UFC 299: O'Malley vs. Vera 2,2024-03-09,Bantamweight,1,Keith Peterson,b50a426a33da0012,win,Decision - Unanimous,5
+b9d5c77ae7a8109b,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Women's Flyweight,0,Rich Mitchell,04835018f90b118c,win,Decision - Unanimous,3
+4c1e7e1765a5438a,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Featherweight,0,Jim Perdios,7facc9c45d792985,win,Decision - Majority,3
+bbe3d8a37a276511,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Bantamweight,0,Mark Smith,18d01f7f8338ae72,win,Decision - Unanimous,3
+d2cb92fdf6a497e9,UFC 318: Holloway vs. Poirier 3,2025-07-19,Bantamweight,0,Chris Hill,18d01f7f8338ae72,win,Decision - Unanimous,3
+7a64d63e12618ba7,UFC 317: Topuria vs. Oliveira,2025-06-28,Lightweight,1,Marc Goddard,54f64b5e283b0ce7,win,KO/TKO,1
+01f7c28804746979,UFC 300: Pereira vs. Hill,2024-04-13,Lightweight,0,Mark Smith,eae48ff31db420c2,win,Decision - Split,3
+f0a9dfbb6f6ac852,UFC 299: O'Malley vs. Vera 2,2024-03-09,Middleweight,0,Dan Miragliotta,595db60957de51d3,win,Submission,1
+919e3c5cc6999cb3,UFC 308: Topuria vs. Holloway,2024-10-26,Catch Weight,0,Vitor Ribeiro,849c5d9979df5357,win,Decision - Split,3
+c565e2baa27cc7e5,UFC 309: Jones vs. Miocic,2024-11-16,Lightweight,0,Marc Goddard,ffe9703408fb5964,win,Decision - Unanimous,3
+78b506e5092a27fd,UFC 306: Riyadh Season Noche UFC,2024-09-14,Flyweight,0,Chris Tognoni,f2900678e98f6d6a,win,Decision - Unanimous,3
+f0145f1c90dbb904,Road to UFC 3.3 + 3.4,2024-05-19,Bantamweight,0,Mark Craig,fd52e5f9ab25c94c,win,Decision - Unanimous,3
+2e8f5f8e5dcab3d4,Road to UFC 3.5 + 3.6,2024-08-23,Flyweight,0,Mark Smith,296a120cb880477b,win,Decision - Unanimous,3
+dfa692db6d39330c,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Flyweight,1,Herb Dean,17e97649403ba428,win,KO/TKO,1
+4896b36f1333d25c,UFC 296: Edwards vs. Covington,2023-12-16,Flyweight,1,Marc Goddard,a0f0004aadf10b71,win,Decision - Unanimous,5
+3c6fb6bf9b7afd40,UFC 294: Makhachev vs. Volkanovski 2,2023-10-21,Lightweight,0,Daniel Movahedi,0bc697c5936a2d0a,win,Decision - Unanimous,3
+3e1c27f17433f9e4,UFC 293: Adesanya vs. Strickland,2023-09-09,Light Heavyweight,0,Marc Goddard,49e96ff8ab781589,win,KO/TKO,1
+1d68bb733de24b06,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Women's Bantamweight,1,Jason Herzog,3253b16d38ae087d,win,Decision - Split,5
+b1f2ec122beda7a5,UFC 295: Prochazka vs. Pereira,2023-11-11,Light Heavyweight,1,Marc Goddard,e5549c82bfb5582d,win,KO/TKO,2
+3e74caa9fff4a5eb,UFC 301: Pantoja vs. Erceg,2024-05-04,Middleweight,0,Fernando Portella,595db60957de51d3,win,Submission,1
+bca5d01f8775f852,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Light Heavyweight,1,Herb Dean,e5549c82bfb5582d,win,KO/TKO,2
+8c5e06c71f392f33,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Light Heavyweight,1,Marc Goddard,e5549c82bfb5582d,win,KO/TKO,4
+c3b9b97467f828d1,UFC 285: Jones vs. Gane,2023-03-04,Women's Strawweight,0,Jason Herzog,d25240135aee03e5,win,Submission,2
+340fcdcabc49f142,UFC 311: Makhachev vs. Moicano,2025-01-18,Women's Bantamweight,0,Mike Beltran,06e4245d16fc5315,win,Decision - Unanimous,3
+a8718a3419a11e15,UFC 301: Pantoja vs. Erceg,2024-05-04,Light Heavyweight,0,Osiris Maia,d4c9dcd330403612,win,Submission,1
+69f67a4a690eb15d,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Light Heavyweight,0,Marc Goddard,71171fc96445bf65,win,Submission,3
+130b325610c54a64,UFC 329: McGregor vs. Holloway 2,2026-07-11,Lightweight,0,Marc Goddard,7826923b47f8d72a,win,Submission,1
+10ab34056720b6b4,UFC 327: Prochazka vs. Ulberg,2026-04-11,Featherweight,0,Keith Peterson,5537efc6e496dd84,win,Decision - Unanimous,3
+d3be5a4e0ec273e2,UFC 314: Volkanovski vs. Lopes,2025-04-12,Featherweight,0,Andrew Glenn,cbf5e6f231b55443,win,Decision - Unanimous,3
+95349402616097cd,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Women's Strawweight,0,Larry Folsom,a3a542074109b347,win,Decision - Split,3
+6e73ebbd089aff5e,UFC 299: O'Malley vs. Vera 2,2024-03-09,Lightweight,0,Mike Beltran,029eaff01e6bb8f0,win,KO/TKO,2
+2372578d3f554c65,UFC 288: Sterling vs. Cejudo,2023-05-06,Heavyweight,0,Gary Copeland,ac40f7e3cbecdda4,win,KO/TKO,1
+a3ef3d05ddd80a94,UFC 283: Teixeira vs. Hill,2023-01-21,Light Heavyweight,0,Herb Dean,260bd4cef10b033f,win,KO/TKO,1
+da22d5a717ae9e35,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Heavyweight,0,Jason Herzog,e13abac8089a801a,win,KO/TKO,1
+45e6a9b56ee3a9d1,UFC 304: Edwards vs. Muhammad 2,2024-07-27,Featherweight,0,Mike Beltran,329e403448756217,win,Decision - Unanimous,3
+5b49c3d36907c6df,UFC 327: Prochazka vs. Ulberg,2026-04-11,Welterweight,0,Marc Goddard,feedf3053472fe56,win,Decision - Unanimous,3
+df2ed8b509fbdbdc,UFC 318: Holloway vs. Poirier 3,2025-07-19,Welterweight,0,Jason Herzog,0f1efce7d2571d10,win,Decision - Split,3
+eda1e8c285a0a788,UFC 300: Pereira vs. Hill,2024-04-13,Light Heavyweight,0,Herb Dean,009341ed974bad72,win,KO/TKO,2
+9bff9fe298e63357,UFC 317: Topuria vs. Oliveira,2025-06-28,Welterweight,0,Mark Smith,85497ffd934ecf7e,win,Submission,2
+c7190cd03e53fb61,UFC 315: Muhammad vs. Della Maddalena,2025-05-10,Lightweight,0,Luc Lefebvre,c2299ec916bc7c56,win,Submission,2
+a031f062b7ffefee,UFC 327: Prochazka vs. Ulberg,2026-04-11,Light Heavyweight,1,Marc Goddard,9014c02eff8b3d62,win,KO/TKO,1
+2560ea97b2cce4ef,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Light Heavyweight,0,Mark Smith,009341ed974bad72,win,KO/TKO,3
+ee2354d638c078fd,UFC 285: Jones vs. Gane,2023-03-04,Lightweight,0,Mark Smith,8c169fbe1ac33637,win,Decision - Unanimous,3
+1efc813ccd7a5aba,UFC 296: Edwards vs. Covington,2023-12-16,Welterweight,0,Jason Herzog,01afe0916a40c7c5,win,Submission,2
+fd98843926965cbd,UFC 314: Volkanovski vs. Lopes,2025-04-12,Flyweight,0,Andrew Glenn,3cf18e01cb6cbde3,win,Decision - Split,3
+480c4dbd2e792d86,UFC 295: Prochazka vs. Pereira,2023-11-11,Lightweight,0,Mike Beltran,849c5d9979df5357,win,Submission,1
+c4d060cff018979a,UFC 327: Prochazka vs. Ulberg,2026-04-11,Light Heavyweight,0,Kevin MacDonald,2e19380f34871c6a,win,Decision - Split,3
+97caf8fca9d9603b,UFC 310: Pantoja vs. Asakura,2024-12-07,Light Heavyweight,0,Marc Goddard,2e19380f34871c6a,win,KO/TKO,2
+aeb3e4d9710207a4,UFC 298: Volkanovski vs. Topuria,2024-02-17,Light Heavyweight,0,Mike Beltran,8a65fd9ba31fd3f7,win,KO/TKO,1
+27d98a8ee6608e27,UFC 306: Riyadh Season Noche UFC,2024-09-14,Lightweight,0,Jason Herzog,323d4ca260dfa0ba,win,Decision - Split,3
+dff2685afd98ed9e,UFC 297: Strickland vs. Du Plessis,2024-01-20,Women's Strawweight,0,Kevin MacDonald,38c7f72747f4f712,win,KO/TKO,2
+2517029ff9c1a1a2,UFC 303: Pereira vs. Prochazka 2,2024-06-29,Women's Strawweight,0,Jason Herzog,38c7f72747f4f712,win,Decision - Unanimous,3
+f995ed679ef8bdf4,UFC 292: Sterling vs. O'Malley,2023-08-19,Middleweight,0,Bryan Miner,d1c65d2cf2925ddd,win,KO/TKO,1
+4b12a4b48755cd6b,UFC 290: Volkanovski vs. Rodriguez,2023-07-08,Featherweight,1,Herb Dean,e1248941344b3288,win,KO/TKO,3
+2cb34fc074f7a9ae,UFC 287: Pereira vs. Adesanya 2,2023-04-08,Bantamweight,0,Keith Peterson,5ec591b78349ba7e,win,Decision - Unanimous,3
+16dbe70eb7007f17,UFC 284: Makhachev vs. Volkanovski,2023-02-11,Flyweight,0,Matt Wynne,102a8fdf8cbf7467,win,KO/TKO,1
+1456a3f96ac7e35b,UFC 298: Volkanovski vs. Topuria,2024-02-17,Heavyweight,0,Frank Trigg,ab943cd2c3c17825,win,KO/TKO,2
+1f70a4516a70abf2,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Lightweight,0,Steve Perceval,a13d755965a4ec9f,win,Decision - Unanimous,3
+f722b96ae6862843,UFC 317: Topuria vs. Oliveira,2025-06-28,Flyweight,0,Jason Herzog,17e97649403ba428,win,Decision - Unanimous,3
+dd3d8f7066c145b7,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Heavyweight,0,Marc Goddard,2cd428e9606856fd,win,Decision - Split,3
+af3e43049bc86fe9,UFC 313: Pereira vs. Ankalaev,2025-03-08,Flyweight,0,Jason Herzog,17e97649403ba428,win,Decision - Unanimous,3
+b6a87389bdc36a00,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Flyweight,0,Vitor Ribeiro,17e97649403ba428,win,KO/TKO,3
+c85b530861145935,UFC 328: Chimaev vs. Strickland,2026-05-09,Flyweight,1,Vitor Ribeiro,17e97649403ba428,win,KO/TKO,5
+a951090fb402fd20,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Welterweight,0,Marc Goddard,64facb6cc564262d,win,Decision - Unanimous,3
+e5ac7343b6d45188,UFC 291: Poirier vs. Gaethje 2,2023-07-29,Flyweight,0,Dave Seljestad,077e3ace32b72be9,win,Decision - Unanimous,3
+bec3154a11df3299,UFC 298: Volkanovski vs. Topuria,2024-02-17,Featherweight,1,Jason Herzog,54f64b5e283b0ce7,win,KO/TKO,2
+8435f90fbd50c7a5,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Heavyweight,0,Rich Mitchell,17923f676f100e16,win,KO/TKO,1
+e4ed294e16e16d81,UFC 293: Adesanya vs. Strickland,2023-09-09,Heavyweight,0,Herb Dean,279566840aa55bf2,win,Submission,2
+ea4ff1d77928b029,UFC 305: Du Plessis vs. Adesanya,2024-08-17,Heavyweight,0,Steve Perceval,f5779a2303ed76ec,win,Submission,1
+45a04f599a25908b,Road To UFC 5.1,2026-05-28,Bantamweight,0,Lukasz Bosacki,34fbfc3f65b64645,win,Decision - Split,3
+9f8a479698aefd35,Road to UFC 4.5 + 4.6,2025-08-22,Flyweight,0,Vitor Ribeiro,7abf7f8778472b7b,win,Decision - Unanimous,3
+ec3fbf5a12ae4d0b,Road to UFC 4.1 + 4.2,2025-05-22,Flyweight,0,Marc Goddard,7abf7f8778472b7b,win,KO/TKO,1
+43d90683078fcee5,UFC 297: Strickland vs. Du Plessis,2024-01-20,Bantamweight,0,Todd Ronald Anderson,c5ccd878231c5407,win,Decision - Split,3
+67765535bd0b6bdf,UFC 325: Volkanovski vs. Lopes 2,2026-01-31,Heavyweight,0,Marc Goddard,17923f676f100e16,win,Decision - Unanimous,3
+1a95cc401f68f4c8,UFC 292: Sterling vs. O'Malley,2023-08-19,Middleweight,0,Keith Peterson,0c6d9ea8306c029e,win,Decision - Unanimous,3
+c7fadbdfdc14c282,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Bantamweight,0,Jim Perdios,4a6dff1b260bcf61,win,Decision - Unanimous,3
+8011be29960cd518,Road To UFC 5.2,2026-05-29,Women's Strawweight,0,Marc Goddard,d683f4870742b273,win,Submission,1
+95ba27bea09cd84e,UFC 311: Makhachev vs. Moicano,2025-01-18,Bantamweight,0,Frank Trigg,b6c37948cb226e8c,win,Decision - Unanimous,3
+16523b1bec3cd7b0,Road to UFC 4.5 + 4.6,2025-08-22,Flyweight,0,Herb Dean,17cb6d8e8187f304,win,Submission,1
+8badb24bbf1a3a96,Road to UFC 2.1 + 2.2,2023-05-27,Flyweight,0,Mark Craig,2f43a3e82661fa99,win,Submission,2
+f2c2a49fed32bd75,UFC 321: Aspinall vs. Gane,2025-10-25,Heavyweight,0,Kerry Hatley,f5779a2303ed76ec,win,Submission,1
+d9678b13d95fed79,Road to UFC 2.1 + 2.2,2023-05-27,Featherweight,0,Thomas Fan,3f11fd1751fa83b1,win,Submission,1
+8a6ac3b4dabd76a7,Road to UFC 3.1 + 3.2,2024-05-18,Featherweight,0,Steve Perceval,e415ea6f8d41c917,win,Decision - Unanimous,3
+c12883ff1a0a18a1,Road to UFC 4.3 + 4.4,2025-05-23,Road to 3 Featherweight Tournament,1,Marc Goddard,6f4ec5aa3eced219,win,Decision - Split,3
+9861b6d04e6ed43c,UFC 299: O'Malley vs. Vera 2,2024-03-09,Bantamweight,0,Keith Peterson,d661ce4da776fc20,win,Decision - Unanimous,3
+66eddbe35056c06d,UFC 300: Pereira vs. Hill,2024-04-13,Women's Strawweight,1,Jason Herzog,1ebe20ebbfa15e29,win,Decision - Unanimous,5
+cedd2e6d3bed12c3,Road to UFC 4.1 + 4.2,2025-05-22,Flyweight,0,Luic Pora,a78dc3910554dbae,win,KO/TKO,1
+f8f28b8f25039954,Road to UFC 3.3 + 3.4,2024-05-19,Flyweight,0,Thomas Fan,296a120cb880477b,win,Decision - Split,3
+9f4a0de31375ba04,UFC 316: Dvalishvili vs. O'Malley 2,2025-06-07,Featherweight,0,Keith Peterson,a44020ea2e8cd026,win,KO/TKO,1
+7b34aa1eb09b8301,UFC 320: Ankalaev vs. Pereira 2,2025-10-04,Catch Weight,0,Herb Dean,b67d6bacc68d4c92,win,KO/TKO,2
+10a57b983e59f727,UFC 323: Dvalishvili vs. Yan 2,2025-12-06,Lightweight,0,Jason Herzog,1e4f273069fb9e85,win,KO/TKO,2
+c936e2a815bfeea3,Road to UFC 3.5 + 3.6,2024-08-23,Bantamweight,0,Chris Tognoni,a474aade8eb3a8f0,win,Decision - Split,3
+7324f622ea08faa7,Road to UFC 4.5 + 4.6,2025-08-22,Featherweight,0,Marc Goddard,f201f21cf2c79eb2,win,KO/TKO,1
+58dec0a39cdefa3f,UFC 307: Pereira vs. Rountree Jr.,2024-10-05,Light Heavyweight,0,Mike Beltran,a67f5afa8d6a1b80,win,Submission,1
+1f5d0b106385b2ac,UFC 328: Chimaev vs. Strickland,2026-05-09,Middleweight,0,Gasper Oliver,d1feea7a4bdcd503,win,Submission,3
+037681585a7c23df,Road to UFC 3.1 + 3.2,2024-05-18,Women's Strawweight,0,Thomas Fan,d683f4870742b273,win,Decision - Unanimous,3
+7606f6b6c19f2d73,UFC 322: Della Maddalena vs. Makhachev,2025-11-15,Women's Flyweight,1,Marc Goddard,132deb59abae64b1,win,Decision - Unanimous,5
+774c94c5441a3a9d,Road to UFC 4.5 + 4.6,2025-08-22,Bantamweight,0,Jim Perdios,1dd1a3aacde66f72,win,Decision - Unanimous,3
+03c2a836d033be8f,UFC 312: Du Plessis vs. Strickland 2,2025-02-08,Women's Strawweight,1,Mike Beltran,1ebe20ebbfa15e29,win,Decision - Unanimous,5
